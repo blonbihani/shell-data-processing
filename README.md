@@ -21,3 +21,11 @@
 - git add. : adds files
 - git commit : change record into local repo
 - git push : send changes to the remote location
+
+## Curl command to get the data from a URL
+
+``` curl "https://blog.reedsy.com/creative-writing-prompts/contests/65/submissions/40259/" -O "testing.txt" ```
+
+## Command to find the most common words, sorted
+
+``` tr ' ' '\12' < data.txt | sort | uniq -c | sort -nr > result.txt ```
