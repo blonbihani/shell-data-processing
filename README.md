@@ -29,3 +29,7 @@
 ## Command to find the most common words, sorted
 
 ``` tr ' ' '\12' < testing.txt | sort | uniq -c | sort -nr > result.txt ```
+
+## Files
+- Data file: [https://github.com/blonbihani/shell-data-processing/blob/master/testing.txt] 
+- Results file: [https://github.com/blonbihani/shell-data-processing/blob/master/result.txt]
