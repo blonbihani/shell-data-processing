@@ -24,7 +24,7 @@
 
 ## Curl command to get the data from a URL
 
-``` curl "https://blog.reedsy.com/creative-writing-prompts/contests/65/submissions/40259/" -O "testing.txt" ```
+``` curl "https://blog.reedsy.com/creative-writing-prompts/contests/65/submissions/40259/" -O "data.txt" ```
 
 ## Command to find the most common words, sorted
 
