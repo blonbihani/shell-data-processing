@@ -1,0 +1,3066 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="robots" content="index, follow">
+
+      <link rel="stylesheet" media="all" href="https://blog-cdn.reedsy.com/assets/prompts-a2af0feccb0f6f68275f9e256fb36a44636b686e9a0708360a4542573c96ed91.css" />
+
+    <!-- Meta -->
+    <title>Bridgemoss Guardians – A Mystery Short Story by Joshua Insole – Reedsy Prompts</title>
+<meta name="description" content="&lt;p&gt;She waited for 15 minutes after the sliver of light beneath her bedroom door disappeared. Once she was sure her parents were asleep, Sadie slid ...">
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Bridgemoss Guardians – A Mystery Short Story by Joshua Insole – Reedsy Prompts" />
+<meta property="og:description" content="&lt;p&gt;She waited for 15 minutes after the sliver of light beneath her bedroom door disappeared. Once she was sure her parents were asleep, Sadie slid ..." />
+<meta property="og:url" content="https://blog.reedsy.com/creative-writing-prompts/contests/65/submissions/40259/" />
+<meta property="og:site_name" content="Reedsy" />
+<meta property="og:image" content="https://blog-cdn.reedsy.com/assets/writing-prompts/og-image-8b20f3415322db64312baad79e7ad289e9b1e1c538475eb239cffd45af5d21be.jpg"/>
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Bridgemoss Guardians – A Mystery Short Story by Joshua Insole – Reedsy Prompts" />
+<meta name="twitter:description" content="&lt;p&gt;She waited for 15 minutes after the sliver of light beneath her bedroom door disappeared. Once she was sure her parents were asleep, Sadie slid ..." />
+<meta name="twitter:site" content="@reedsyhq" />
+<meta name="twitter:image" content="https://blog-cdn.reedsy.com/assets/writing-prompts/og-image-8b20f3415322db64312baad79e7ad289e9b1e1c538475eb239cffd45af5d21be.jpg" />
+<meta name="twitter:creator" content="@reedsyhq">
+
+<meta property="article:publisher" content="https://www.facebook.com/wearereedsy/">
+
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" sizes="57x57" href="https://blog-cdn.reedsy.com/assets/icons/favicon/apple-icon-57x57-d5f360557af400c995d486100d93252c1c757c254c87367f3bf2cf98042171a0.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="https://blog-cdn.reedsy.com/assets/icons/favicon/apple-icon-60x60-7e4c3b5cb6e6b8d5ac6fb1cdab388e36f9fe0d5571e4c36076c091fc952626cb.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="https://blog-cdn.reedsy.com/assets/icons/favicon/apple-icon-72x72-154eee0dc22c24ba1b0dc22f37a9aa0fd5a470b29cc26523dba64a4767df87cc.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="https://blog-cdn.reedsy.com/assets/icons/favicon/apple-icon-76x76-ae81f657f71b3f42861db0ac9e54de1228be39357e23d737913990839357adaa.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="https://blog-cdn.reedsy.com/assets/icons/favicon/apple-icon-114x114-b9abd2ebbcfd6cb8fbb73eeebf2aaa49a833429a5232b0d81fc27c723c369e7c.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="https://blog-cdn.reedsy.com/assets/icons/favicon/apple-icon-120x120-c75825d89c50d210456d18fb8c7d0fd32161146d7e15f27aab0ec4162b787a68.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="https://blog-cdn.reedsy.com/assets/icons/favicon/apple-icon-144x144-7792dc878e1811a8e8fe805c1fa46aebc59f5dc444422543d85222cc7dfe92a2.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="https://blog-cdn.reedsy.com/assets/icons/favicon/apple-icon-152x152-f2b210f55a9ae2f2fb88ffea34f989bf70fddbee23f4e27d6595949d102f3e65.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://blog-cdn.reedsy.com/assets/icons/favicon/apple-icon-180x180-c7e2b4df85b9a1678a1f6dcb749eeda264d542fccd1a8dc2ab57a8c5bb9239ad.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://blog-cdn.reedsy.com/assets/icons/favicon/favicon-32x32-ff8457ead89f2a8d7834185391f8162f38832e396ef3894afb75b0564aa1d1f3.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="https://blog-cdn.reedsy.com/assets/icons/favicon/favicon-96x96-e8b57185a09bb0e4334627ceadf2c9e13d0da4c77dc7f0d23f9244073931c7b6.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://blog-cdn.reedsy.com/assets/icons/favicon/favicon-16x16-fb2bbb46c79776c8560276d55b33519921f0f98785d59e1d375bf8eb8ae22e67.png">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="https://blog-cdn.reedsy.com/assets/icons/favicon/ms-icon-144x144-7792dc878e1811a8e8fe805c1fa46aebc59f5dc444422543d85222cc7dfe92a2.png">
+  <meta name="theme-color" content="#ffffff">
+
+
+    <link rel="publisher" href="https://plus.google.com/b/109848060006535085342/+Reedsy">
+    <link rel="canonical" href="https://blog.reedsy.com/creative-writing-prompts/contests/65/submissions/40259/">
+
+    <link href="https://www.google-analytics.com" rel="preconnect">
+    <link href="https://accounts.google.com" rel="preconnect">
+    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+    <link href="https://blog-cdn.reedsy.com" rel="preconnect">
+
+    <!-- Facebook -->
+    <script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '309892496034295');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=309892496034295&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- GA -->
+          <script>
+        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+        ga('create', 'UA-51997868-1', {"cookieDomain":"auto"});
+        ga('send','pageview');
+      </script>
+      <script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    
+    <!-- aherfs -->
+    <meta name="ahrefs-site-verification" content="c2ed743569ffbae45f600cb0e778ed1c1e515fafc6385b803c93d1174764dc5d">
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="IuSaXq2M1RDqbmgqnCBv5ciFi203mP/WMniXV8C8lKry30uKQ7nkjRAZfQyw+NTQrB30SKZOlWVPwtlgJln23w==" />
+    
+
+    
+  </head>
+
+  <body class="">
+    <!-- Admin errors -->
+
+    <!-- Content -->
+    
+
+<div class="writing-prompts">
+  <header class="white-theme">
+    <nav>
+  <div class="nav-container content">
+    <div class="grid align-middle no-response">
+      <!-- Left side -->
+      <div class="cell grid align-middle">
+        <a href="https://blog.reedsy.com/creative-writing-prompts/" class="logo-svg">
+          <svg class="svg-logo" width="282" height="42" viewBox="0 0 282 42" xmlns="http://www.w3.org/2000/svg"><g fill-rule="nonzero" fill="none"><path d="M10.8 33.3v-2c0-.4-.2-.7-.7-.7L7.6 30V19c1.3-3 3.2-4.6 5.7-4.6a6 6 0 011.8.2l1 .2c.4 0 .6-.2.7-.6l.5-3a6 6 0 00-3.1-.7c-2.9 0-5.2 1.6-6.8 5L7.1 12c0-.4-.1-.7-.3-.9l-.9-.2H.5v1.9c0 .4.2.7.6.8l2.6.5v16l-2.6.5c-.4 0-.6.3-.6.8v1.9h10.3zm16.8.3a14.6 14.6 0 004.9-.9c.8-.2 1.5-.6 2.2-1l1.7-1.6-1-1.4a.9.9 0 00-.8-.4c-.3 0-.6.1-1 .4a14 14 0 01-3 1.4c-.8.3-1.6.4-2.6.4s-2-.2-2.9-.5c-.9-.4-1.6-.9-2.2-1.6a7.5 7.5 0 01-1.5-2.6c-.3-1-.5-2.3-.5-3.7h14.8c.4 0 .7-.1.8-.3.1-.2.2-.6.2-1.3 0-1.5-.2-3-.7-4.2a8.3 8.3 0 00-4.9-5 10.8 10.8 0 00-8 .2 9.5 9.5 0 00-5.4 5.8 15.2 15.2 0 000 9.5c.6 1.4 1.3 2.7 2.3 3.7 1 1 2 1.8 3.4 2.3 1.3.5 2.7.8 4.2.8zm5.6-14H21c.3-2 1-3.4 2-4.5a6 6 0 014.5-1.7 6 6 0 012.4.5 5 5 0 011.8 1.3c.5.5.8 1.2 1 2 .3.7.5 1.5.5 2.4zm16 14a14.6 14.6 0 004.9-.9c.8-.2 1.5-.6 2.2-1 .7-.5 1.2-1 1.7-1.6l-1-1.4a.9.9 0 00-.8-.4c-.3 0-.6.1-1 .4a14 14 0 01-3 1.4c-.8.3-1.6.4-2.6.4s-2-.2-2.9-.5c-.8-.4-1.6-.9-2.2-1.6a7.5 7.5 0 01-1.5-2.6c-.3-1-.5-2.3-.5-3.7h14.9c.3 0 .6-.1.7-.3.1-.2.2-.6.2-1.3 0-1.5-.2-3-.7-4.2a8.3 8.3 0 00-4.9-5 10.8 10.8 0 00-8 .2 9.5 9.5 0 00-5.4 5.8 15.2 15.2 0 000 9.5c.6 1.4 1.3 2.7 2.3 3.7 1 1 2 1.8 3.4 2.3 1.3.5 2.7.8 4.2.8zm5.6-14H42.6c.3-2 1-3.4 2-4.5a6 6 0 014.5-1.7 6 6 0 012.4.5 5 5 0 011.8 1.3c.5.5.8 1.2 1.1 2 .2.7.4 1.5.4 2.4zm13.9 14c2.9 0 5.4-1.3 7.5-3.9l.4 2.8c.1.5.5.8 1 .8h5.5v-2c0-.4-.2-.7-.6-.7L80 30V.7h-7.6v2c0 .4.2.7.7.7l3 .5v9.2a8 8 0 00-6.2-2.6c-3 0-5.3 1.1-7 3.3-1.8 2.2-2.7 5-2.7 8.4 0 3.6.8 6.5 2.3 8.5 1.5 2 3.6 2.9 6.2 2.9zm1.3-3.2a6 6 0 01-2.4-.5c-2.2-1-3.3-3.5-3.3-7.7 0-2.8.6-5 1.7-6.4a5.7 5.7 0 014.9-2.2c2.1 0 3.8.8 5.1 2.6V27c-1.7 2.3-3.7 3.4-6 3.4zm22 3.2c2.5 0 4.4-.7 6-2 1.4-1.3 2.1-3 2.1-5.2 0-1.6-.6-3-1.8-4-.5-.4-1.1-.7-1.8-1a28.3 28.3 0 00-5-1.7c-1-.3-1.9-.9-2.5-1.5-.3-.4-.5-1-.5-1.7 0-.8.4-1.5 1.2-2 .8-.7 1.8-1 3-1h.1c1 0 2.1.1 3.4.4l.3 3c0 .3.3.6.8.6H99v-5.8c-2.3-.8-4.3-1.2-5.8-1.2-2.7 0-4.8.7-6.3 2a5.8 5.8 0 00-2.1 4.5c0 1.8.6 3.1 1.8 4.2l2 1.2a47 47 0 006 2.1c.6.3 1 .7 1.4 1 .3.5.4 1.1.4 2a3 3 0 01-1 2.2 5 5 0 01-3.5 1.1c-1.8 0-3.3-.3-4.6-.9l-.2-2.8c-.1-.4-.3-.6-.7-.6h-1.6v5.9c2.4.8 4.8 1.2 7.3 1.2zm17.8 7.3c.6 0 1.1-.4 1.4-1L122.3 14l1-.2h.2l1.1-.3c.5 0 .7-.4.7-.8v-2h-10v2c0 .4.3.7.7.8l2.4.5-4.8 11.7-.7 2a13 13 0 00-.6-2l-5-11.7 2.5-.5c.4 0 .7-.4.7-.8v-2h-10v2c0 .4.1.7.6.8l.5.1h.3l1.2.3 7.9 18-4.1 8.9h2.9z" id="reedsy" fill="#2A2A2A"/><path d="M135.8 40.9v-2c0-.4-.2-.7-.6-.8a46.6 46.6 0 00-2.6-.5V31a8.3 8.3 0 006.5 2.6c2.8 0 5-1.1 6.8-3.4a13 13 0 002.5-8.3c0-3.6-.7-6.5-2.3-8.5-1.4-2-3.5-3-6.1-3a9.5 9.5 0 00-7.6 4l-.3-2.7c-.1-.5-.5-.8-1-.8h-5.6v1.9c0 .4.2.7.7.8l2.5.5v23.5l-2.5.5c-.5.1-.7.4-.7.9v1.9h10.3zm2-10.4c-2.1 0-3.8-.9-5.2-2.6V17c1.8-2.3 3.8-3.4 6-3.4 3.9 0 5.8 2.7 5.8 8.2 0 2.8-.6 5-1.7 6.4a5.7 5.7 0 01-4.9 2.2zm22.2 2.8v-2c0-.4-.2-.7-.7-.7l-2.5-.6V19c1.3-3 3.2-4.6 5.8-4.6a6 6 0 011.8.2l1 .2c.3 0 .5-.2.6-.6l.5-3a6 6 0 00-3-.7c-3 0-5.2 1.6-6.9 5l-.2-3.5c-.1-.4-.2-.7-.4-.9-.1-.1-.4-.2-.9-.2h-5.4v1.9c0 .4.2.7.7.8l2.5.5v16l-2.5.5c-.5 0-.7.3-.7.8v1.9H160zm17 .3c1.6 0 3-.3 4.4-.8a9.2 9.2 0 003.3-2.3c1-1 1.7-2.2 2.2-3.7.5-1.4.7-3 .7-4.7 0-1.8-.2-3.4-.7-4.8-.5-1.4-1.2-2.6-2.2-3.6-.9-1-2-1.8-3.3-2.3-1.3-.6-2.8-.9-4.5-.9-1.6 0-3 .3-4.4.9a9.5 9.5 0 00-5.5 6 14.2 14.2 0 000 9.5 9.3 9.3 0 005.5 6c1.3.4 2.8.7 4.4.7zm0-3c-1.2 0-2.1-.3-3-.7-.8-.3-1.5-.9-2-1.6-.6-.7-1-1.6-1.3-2.7-.2-1-.4-2.2-.4-3.5 0-1.3.2-2.5.4-3.6.3-1 .7-2 1.3-2.6.5-.8 1.2-1.3 2-1.7.9-.4 1.8-.6 3-.6 2.2 0 3.8.8 4.9 2.3 1 1.4 1.6 3.5 1.6 6.2 0 2.6-.5 4.7-1.6 6.2-1 1.5-2.7 2.2-5 2.2zm22.2 2.7v-2c0-.4-.3-.7-.7-.7l-.9-.2h-.3l-.2-.1-1.2-.3V16.6c1.6-2 3.2-3 5-3 2.9 0 4.3 1.9 4.3 5.4v14.3h7.1v-2c0-.4-.2-.7-.7-.7l-2.5-.6V19c0-1.7.5-3 1.5-4 .9-.9 2-1.3 3.3-1.3 1.5 0 2.6.4 3.4 1.3.7 1 1.1 2.3 1.1 4v14.3h7.2v-2c0-.4-.3-.7-.7-.7l-.7-.2h-.3l-1.5-.4V19c0-2.7-.7-4.8-2-6.3a6.3 6.3 0 00-2.4-1.6c-.9-.4-2-.6-3.4-.6s-2.7.4-4 1.1c-1.3.9-2.3 2-2.8 3.6a7 7 0 00-2-3.4c-1-.8-2.2-1.3-3.8-1.3-2.3 0-4.4 1.2-6.3 3.5l-.3-2.3c-.1-.5-.5-.8-1-.8h-5.6v1.9c0 .4.3.7.7.8l2.5.5v16l-2.5.5c-.4 0-.7.3-.7.8v1.9h10.4zm37.2 7.6v-2c0-.4-.2-.7-.7-.8a46.6 46.6 0 00-2.5-.5V31a8.3 8.3 0 006.5 2.6c2.7 0 5-1.1 6.7-3.4A13 13 0 00249 22c0-3.6-.8-6.5-2.3-8.5-1.5-2-3.5-3-6.2-3a9.5 9.5 0 00-7.5 4l-.3-2.7c-.2-.5-.5-.8-1-.8H226v1.9c0 .4.2.7.7.8l2.5.5v23.5l-2.5.5c-.5.1-.7.4-.7.9v1.9h10.3zm2-10.4c-2.2 0-3.9-.9-5.2-2.6V17c1.7-2.3 3.7-3.4 6-3.4 3.8 0 5.7 2.7 5.7 8.2 0 2.8-.5 5-1.6 6.4a5.7 5.7 0 01-5 2.2zm20 3.1a8.3 8.3 0 005.4-2l-1.2-1.9c-.1-.2-.3-.4-.5-.4l-.4.2a8.6 8.6 0 01-1.4.7l-1 .2c-.8 0-1.4-.2-1.8-.7-.5-.4-.7-1.1-.7-2V14.1h6.4v-2.9h-6.4V3.6h-2a1 1 0 00-.6.2c-.2.2-.3.3-.3.6l-.9 6.9-3.7.4v1.6c0 .3.1.5.3.7l.6.2h2.7v13.7c0 1.8.4 3.3 1.4 4.2 1 1 2.3 1.5 4 1.5zm14.3 0c2.4 0 4.4-.7 5.9-2s2.2-3 2.2-5.2c0-1.6-.6-3-1.8-4l-1.9-1a28.3 28.3 0 00-4.9-1.7c-1-.3-2-.9-2.5-1.5-.4-.4-.5-1-.5-1.7 0-.8.4-1.5 1.2-2 .7-.7 1.7-1 3-1 1 0 2.2.1 3.5.4l.3 3c0 .3.3.6.7.6h1.8v-5.8c-2.4-.8-4.3-1.2-5.9-1.2-2.7 0-4.8.7-6.3 2a5.8 5.8 0 00-2 4.5c0 1.8.5 3.1 1.8 4.2l2 1.2a47 47 0 006 2.1l1.3 1c.3.5.5 1.1.5 2a3 3 0 01-1.1 2.2 5 5 0 01-3.5 1.1c-1.8 0-3.3-.3-4.5-.9l-.3-2.8c0-.4-.3-.6-.7-.6h-1.5v5.9c2.4.8 4.8 1.2 7.2 1.2z" fill="#12A4E2"/></g></svg>
+
+        </a>
+      </div>
+      <div class="grid align-middle gutter-xs-lg">
+        <div class="nav-link">
+          <a class="" href="/creative-writing-prompts/">Prompts</a>
+        </div>
+        <div class="nav-link">
+          <a class=" active" href="/creative-writing-prompts/contests/">Contests</a>
+        </div>
+        <div class="nav-link">
+          <a class="" href="/short-stories/">Stories</a>
+        </div>
+        <div class="nav-link nav-dropdown">
+          <a href="/">Blog</a>
+          <div class="dropdown">
+            <div class="dropdown-list grid-column">
+              <div class="dropdown-cell">
+                <a href="/">
+                        <img data-src="https://blog-cdn.reedsy.com/assets/logo/blog-3bd0d30a20bc9b3477772ae60c86066c9417f24d34e58a888e26d0998f0bb7f2.svg" class="lazyload svg-logo" alt="reedsy blog" width="" height="">
+
+                  <p class="small">Advice, insights and news</p>
+                </a>
+              </div>
+              <div class="dropdown-cell">
+                <a href="/learning">
+                        <img data-src="https://blog-cdn.reedsy.com/assets/logo/learning-acea8d0526de467448701a8adb28a1fdfccdae18076a3b8640bac50bfcb7c05f.svg" class="lazyload svg-logo" alt="reedsy learning" width="" height="">
+
+                  <p class="small">Free 10-day publishing courses</p>
+                </a>
+              </div>
+              <div class="dropdown-cell">
+                <a href="/live">
+                        <img data-src="https://blog-cdn.reedsy.com/assets/logo/live-f2527af69f9e3c920025edf7cd8f884e5793c6505c97caa30d2c069ae1de27f8.svg" class="lazyload svg-logo" alt="reedsy live" width="" height="">
+
+                  <p class="small">Free publishing webinars</p>
+                </a>
+              </div>
+              <a href="/podcast">Bestseller Podcast</a>
+              <a href="/book-cover-art/">Book Cover Art</a>
+              <a href="/stories">Success Stories</a>
+            </div>
+          </div>
+        </div>
+        <div class="nav-link nav-dropdown">
+          <a href="/">Apps</a>
+          <div class="dropdown">
+            <div class="dropdown-list grid-column">
+              <div class="dropdown-cell">
+                <a href="https://reedsy.com/write-a-book">
+                        <img data-src="https://blog-cdn.reedsy.com/assets/logo/rbe-3ed82262d16e69038e783b9dec5b2b2df8c91e32f24a6882f12cb33856042501.svg" class="lazyload svg-logo" alt="reedsy book editor" width="" height="">
+
+                  <p class="small">Free EPUB & PDF typesetting tool</p>
+                </a>
+              </div>
+              <div class="dropdown-cell">
+                <a href="https://reedsy.com/discovery">
+                        <img data-src="https://blog-cdn.reedsy.com/assets/logo/discovery-e62fe7e24a6a315e6463ca5914e2097b73a0ceec6c470bfb495fb96948af8d92.svg" class="lazyload svg-logo" alt="reedsy discovery" width="" height="">
+
+                  <p class="small">Launch your book in style</p>
+                </a>
+              </div>
+              <div class="dropdown-cell">
+                <a href="https://reedsy.com/">
+                        <img data-src="https://blog-cdn.reedsy.com/assets/logo/marketplace-e6f42d710d84fd36268551bf5267af0ade5f17aca64fc0219ead6a858fd6f74b.svg" class="lazyload svg-logo" alt="reedsy marketplace" width="" height="">
+
+                  <p class="small">Assemble a team of pros</p>
+                </a>
+              </div>
+              <div class="dropdown-cell">
+                <a href="/creative-writing-prompts">
+                  <svg class="svg-logo" width="282" height="42" viewBox="0 0 282 42" xmlns="http://www.w3.org/2000/svg"><g fill-rule="nonzero" fill="none"><path d="M10.8 33.3v-2c0-.4-.2-.7-.7-.7L7.6 30V19c1.3-3 3.2-4.6 5.7-4.6a6 6 0 011.8.2l1 .2c.4 0 .6-.2.7-.6l.5-3a6 6 0 00-3.1-.7c-2.9 0-5.2 1.6-6.8 5L7.1 12c0-.4-.1-.7-.3-.9l-.9-.2H.5v1.9c0 .4.2.7.6.8l2.6.5v16l-2.6.5c-.4 0-.6.3-.6.8v1.9h10.3zm16.8.3a14.6 14.6 0 004.9-.9c.8-.2 1.5-.6 2.2-1l1.7-1.6-1-1.4a.9.9 0 00-.8-.4c-.3 0-.6.1-1 .4a14 14 0 01-3 1.4c-.8.3-1.6.4-2.6.4s-2-.2-2.9-.5c-.9-.4-1.6-.9-2.2-1.6a7.5 7.5 0 01-1.5-2.6c-.3-1-.5-2.3-.5-3.7h14.8c.4 0 .7-.1.8-.3.1-.2.2-.6.2-1.3 0-1.5-.2-3-.7-4.2a8.3 8.3 0 00-4.9-5 10.8 10.8 0 00-8 .2 9.5 9.5 0 00-5.4 5.8 15.2 15.2 0 000 9.5c.6 1.4 1.3 2.7 2.3 3.7 1 1 2 1.8 3.4 2.3 1.3.5 2.7.8 4.2.8zm5.6-14H21c.3-2 1-3.4 2-4.5a6 6 0 014.5-1.7 6 6 0 012.4.5 5 5 0 011.8 1.3c.5.5.8 1.2 1 2 .3.7.5 1.5.5 2.4zm16 14a14.6 14.6 0 004.9-.9c.8-.2 1.5-.6 2.2-1 .7-.5 1.2-1 1.7-1.6l-1-1.4a.9.9 0 00-.8-.4c-.3 0-.6.1-1 .4a14 14 0 01-3 1.4c-.8.3-1.6.4-2.6.4s-2-.2-2.9-.5c-.8-.4-1.6-.9-2.2-1.6a7.5 7.5 0 01-1.5-2.6c-.3-1-.5-2.3-.5-3.7h14.9c.3 0 .6-.1.7-.3.1-.2.2-.6.2-1.3 0-1.5-.2-3-.7-4.2a8.3 8.3 0 00-4.9-5 10.8 10.8 0 00-8 .2 9.5 9.5 0 00-5.4 5.8 15.2 15.2 0 000 9.5c.6 1.4 1.3 2.7 2.3 3.7 1 1 2 1.8 3.4 2.3 1.3.5 2.7.8 4.2.8zm5.6-14H42.6c.3-2 1-3.4 2-4.5a6 6 0 014.5-1.7 6 6 0 012.4.5 5 5 0 011.8 1.3c.5.5.8 1.2 1.1 2 .2.7.4 1.5.4 2.4zm13.9 14c2.9 0 5.4-1.3 7.5-3.9l.4 2.8c.1.5.5.8 1 .8h5.5v-2c0-.4-.2-.7-.6-.7L80 30V.7h-7.6v2c0 .4.2.7.7.7l3 .5v9.2a8 8 0 00-6.2-2.6c-3 0-5.3 1.1-7 3.3-1.8 2.2-2.7 5-2.7 8.4 0 3.6.8 6.5 2.3 8.5 1.5 2 3.6 2.9 6.2 2.9zm1.3-3.2a6 6 0 01-2.4-.5c-2.2-1-3.3-3.5-3.3-7.7 0-2.8.6-5 1.7-6.4a5.7 5.7 0 014.9-2.2c2.1 0 3.8.8 5.1 2.6V27c-1.7 2.3-3.7 3.4-6 3.4zm22 3.2c2.5 0 4.4-.7 6-2 1.4-1.3 2.1-3 2.1-5.2 0-1.6-.6-3-1.8-4-.5-.4-1.1-.7-1.8-1a28.3 28.3 0 00-5-1.7c-1-.3-1.9-.9-2.5-1.5-.3-.4-.5-1-.5-1.7 0-.8.4-1.5 1.2-2 .8-.7 1.8-1 3-1h.1c1 0 2.1.1 3.4.4l.3 3c0 .3.3.6.8.6H99v-5.8c-2.3-.8-4.3-1.2-5.8-1.2-2.7 0-4.8.7-6.3 2a5.8 5.8 0 00-2.1 4.5c0 1.8.6 3.1 1.8 4.2l2 1.2a47 47 0 006 2.1c.6.3 1 .7 1.4 1 .3.5.4 1.1.4 2a3 3 0 01-1 2.2 5 5 0 01-3.5 1.1c-1.8 0-3.3-.3-4.6-.9l-.2-2.8c-.1-.4-.3-.6-.7-.6h-1.6v5.9c2.4.8 4.8 1.2 7.3 1.2zm17.8 7.3c.6 0 1.1-.4 1.4-1L122.3 14l1-.2h.2l1.1-.3c.5 0 .7-.4.7-.8v-2h-10v2c0 .4.3.7.7.8l2.4.5-4.8 11.7-.7 2a13 13 0 00-.6-2l-5-11.7 2.5-.5c.4 0 .7-.4.7-.8v-2h-10v2c0 .4.1.7.6.8l.5.1h.3l1.2.3 7.9 18-4.1 8.9h2.9z" id="reedsy" fill="#2A2A2A"/><path d="M135.8 40.9v-2c0-.4-.2-.7-.6-.8a46.6 46.6 0 00-2.6-.5V31a8.3 8.3 0 006.5 2.6c2.8 0 5-1.1 6.8-3.4a13 13 0 002.5-8.3c0-3.6-.7-6.5-2.3-8.5-1.4-2-3.5-3-6.1-3a9.5 9.5 0 00-7.6 4l-.3-2.7c-.1-.5-.5-.8-1-.8h-5.6v1.9c0 .4.2.7.7.8l2.5.5v23.5l-2.5.5c-.5.1-.7.4-.7.9v1.9h10.3zm2-10.4c-2.1 0-3.8-.9-5.2-2.6V17c1.8-2.3 3.8-3.4 6-3.4 3.9 0 5.8 2.7 5.8 8.2 0 2.8-.6 5-1.7 6.4a5.7 5.7 0 01-4.9 2.2zm22.2 2.8v-2c0-.4-.2-.7-.7-.7l-2.5-.6V19c1.3-3 3.2-4.6 5.8-4.6a6 6 0 011.8.2l1 .2c.3 0 .5-.2.6-.6l.5-3a6 6 0 00-3-.7c-3 0-5.2 1.6-6.9 5l-.2-3.5c-.1-.4-.2-.7-.4-.9-.1-.1-.4-.2-.9-.2h-5.4v1.9c0 .4.2.7.7.8l2.5.5v16l-2.5.5c-.5 0-.7.3-.7.8v1.9H160zm17 .3c1.6 0 3-.3 4.4-.8a9.2 9.2 0 003.3-2.3c1-1 1.7-2.2 2.2-3.7.5-1.4.7-3 .7-4.7 0-1.8-.2-3.4-.7-4.8-.5-1.4-1.2-2.6-2.2-3.6-.9-1-2-1.8-3.3-2.3-1.3-.6-2.8-.9-4.5-.9-1.6 0-3 .3-4.4.9a9.5 9.5 0 00-5.5 6 14.2 14.2 0 000 9.5 9.3 9.3 0 005.5 6c1.3.4 2.8.7 4.4.7zm0-3c-1.2 0-2.1-.3-3-.7-.8-.3-1.5-.9-2-1.6-.6-.7-1-1.6-1.3-2.7-.2-1-.4-2.2-.4-3.5 0-1.3.2-2.5.4-3.6.3-1 .7-2 1.3-2.6.5-.8 1.2-1.3 2-1.7.9-.4 1.8-.6 3-.6 2.2 0 3.8.8 4.9 2.3 1 1.4 1.6 3.5 1.6 6.2 0 2.6-.5 4.7-1.6 6.2-1 1.5-2.7 2.2-5 2.2zm22.2 2.7v-2c0-.4-.3-.7-.7-.7l-.9-.2h-.3l-.2-.1-1.2-.3V16.6c1.6-2 3.2-3 5-3 2.9 0 4.3 1.9 4.3 5.4v14.3h7.1v-2c0-.4-.2-.7-.7-.7l-2.5-.6V19c0-1.7.5-3 1.5-4 .9-.9 2-1.3 3.3-1.3 1.5 0 2.6.4 3.4 1.3.7 1 1.1 2.3 1.1 4v14.3h7.2v-2c0-.4-.3-.7-.7-.7l-.7-.2h-.3l-1.5-.4V19c0-2.7-.7-4.8-2-6.3a6.3 6.3 0 00-2.4-1.6c-.9-.4-2-.6-3.4-.6s-2.7.4-4 1.1c-1.3.9-2.3 2-2.8 3.6a7 7 0 00-2-3.4c-1-.8-2.2-1.3-3.8-1.3-2.3 0-4.4 1.2-6.3 3.5l-.3-2.3c-.1-.5-.5-.8-1-.8h-5.6v1.9c0 .4.3.7.7.8l2.5.5v16l-2.5.5c-.4 0-.7.3-.7.8v1.9h10.4zm37.2 7.6v-2c0-.4-.2-.7-.7-.8a46.6 46.6 0 00-2.5-.5V31a8.3 8.3 0 006.5 2.6c2.7 0 5-1.1 6.7-3.4A13 13 0 00249 22c0-3.6-.8-6.5-2.3-8.5-1.5-2-3.5-3-6.2-3a9.5 9.5 0 00-7.5 4l-.3-2.7c-.2-.5-.5-.8-1-.8H226v1.9c0 .4.2.7.7.8l2.5.5v23.5l-2.5.5c-.5.1-.7.4-.7.9v1.9h10.3zm2-10.4c-2.2 0-3.9-.9-5.2-2.6V17c1.7-2.3 3.7-3.4 6-3.4 3.8 0 5.7 2.7 5.7 8.2 0 2.8-.5 5-1.6 6.4a5.7 5.7 0 01-5 2.2zm20 3.1a8.3 8.3 0 005.4-2l-1.2-1.9c-.1-.2-.3-.4-.5-.4l-.4.2a8.6 8.6 0 01-1.4.7l-1 .2c-.8 0-1.4-.2-1.8-.7-.5-.4-.7-1.1-.7-2V14.1h6.4v-2.9h-6.4V3.6h-2a1 1 0 00-.6.2c-.2.2-.3.3-.3.6l-.9 6.9-3.7.4v1.6c0 .3.1.5.3.7l.6.2h2.7v13.7c0 1.8.4 3.3 1.4 4.2 1 1 2.3 1.5 4 1.5zm14.3 0c2.4 0 4.4-.7 5.9-2s2.2-3 2.2-5.2c0-1.6-.6-3-1.8-4l-1.9-1a28.3 28.3 0 00-4.9-1.7c-1-.3-2-.9-2.5-1.5-.4-.4-.5-1-.5-1.7 0-.8.4-1.5 1.2-2 .7-.7 1.7-1 3-1 1 0 2.2.1 3.5.4l.3 3c0 .3.3.6.7.6h1.8v-5.8c-2.4-.8-4.3-1.2-5.9-1.2-2.7 0-4.8.7-6.3 2a5.8 5.8 0 00-2 4.5c0 1.8.5 3.1 1.8 4.2l2 1.2a47 47 0 006 2.1l1.3 1c.3.5.5 1.1.5 2a3 3 0 01-1.1 2.2 5 5 0 01-3.5 1.1c-1.8 0-3.3-.3-4.5-.9l-.3-2.8c0-.4-.3-.6-.7-.6h-1.5v5.9c2.4.8 4.8 1.2 7.2 1.2z" fill="#12A4E2"/></g></svg>
+
+                  <p class="small">A weekly short story contest</p>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="nav-link nav-dropdown hidden-until-lg">
+          <a href="https://reedsy.com/write-a-book">Tools</a>
+          <div class="dropdown">
+            <div class="dropdown-list grid-column">
+              <a href="/book-promotion-services/">Book Promotion Sites</a>
+              <a href="/book-review-blogs/">Book Review Blogs</a>
+              <a href="/booktube-channels/">Booktube Channel Guide</a>
+              <a href="/book-title-generator/">Book Title Generator</a>
+              <a href="/character-name-generator/">Character Name Generator</a>
+              <a href="/epub-to-mobi-converter/">Epub to Mobi Converter</a>
+              <a href="/independent-publishers/">Independent Publishers</a>
+              <a href="/literary-magazines/">Literary Magazines</a>
+              <a href="/pen-name-generator/">Pen Name Generator</a>
+              <a href="/plot-generator/">Plot Generator</a>
+              <a href="/short-story-ideas/">Short Story Ideas</a>
+              <a href="/writing-contests/">Writing Contests</a>
+              <a href="/writing-exercises/">Writing Exercises</a>
+              <a href="/writing-scholarships/">Writing Scholarships</a>
+            </div>
+          </div>
+        </div>
+        <div>
+            <a class="btn-login btn-sm" href="/auth/sign_in">Log in</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<div class="nav-tray">
+  <div class="grid align-middle text-center no-response">
+    <div class="cell">
+      <div class="burger icon space-bottom-xs-xs">
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+      </div>
+      <a>Menu</a>
+    </div>
+    <div class="cell">
+      <a href="/creative-writing-prompts/">
+        <img class="icon" src="https://blog-cdn.reedsy.com/assets/icons/prompts-a24e57342d735573458352cb8c21aeaebebaf9f0d9da025ef25b958e30d09bcc.svg" />
+</a>      <a class="" href="/creative-writing-prompts/">Prompts</a>
+    </div>
+    <div class="cell">
+      <a href="/creative-writing-prompts/contests/">
+        <img class="icon" src="https://blog-cdn.reedsy.com/assets/icons/trophy-3065ddf031b33ff3c171dcdb1bf56f5f41f656e4b7d6ea4d4e25913247efe48c.svg" />
+</a>      <a class=" active" href="/creative-writing-prompts/contests/">Contests</a>
+    </div>
+    <div class="cell">
+      <a href="/short-stories/">
+        <img class="icon" src="https://blog-cdn.reedsy.com/assets/icons/book-64cd2faa0cbf86be1403dc9a5ef05833da41c6f294649603fd26beec1048dd0c.svg" />
+</a>      <a class="" href="/short-stories/">Stories</a>
+    </div>
+      <div class="cell">
+        <a target="_blank" href="https://blog.reedsy.com">
+          <img class="icon" src="https://blog-cdn.reedsy.com/assets/icons/external-359c0d7492769c9af80c27d8a0602b254eaaf20980eaeecb634fcd29a3b7ec36.svg" />
+</a>        <a target="_blank" href="https://blog.reedsy.com">Blog</a>
+      </div>
+  </div>
+</div>
+
+<div class="nav-mobile">
+  <div class="nav-scroll">
+    <div class="nav-panel">
+      <div class="grid no-response align-middle space-bottom-xs-md">
+        <div class="cell">
+          <h4>Menu</h4>
+        </div>
+        <div class="cell-shrink">
+          <span class="nav-close">✕</span>
+        </div>
+      </div>
+      <h5>CONNECT</h5>
+      <a href="https://reedsy.com/" class="nav-link">
+              <img data-src="https://blog-cdn.reedsy.com/assets/logo/marketplace-e6f42d710d84fd36268551bf5267af0ade5f17aca64fc0219ead6a858fd6f74b.svg" class="lazyload svg-logo" alt="reedsy marketplace" width="" height="">
+
+      </a>
+      <a href="https://reedsy.com/editing/book-editor" class="nav-link space-left-xs-md">Editing</a>
+      <a href="https://reedsy.com/design/book-designer" class="nav-link space-left-xs-md">Design</a>
+      <a href="https://reedsy.com/marketing/book-marketer" class="nav-link space-left-xs-md">Marketing</a>
+      <a href="https://reedsy.com/publicity/book-publicist" class="nav-link space-left-xs-md">Publicity</a>
+      <a href="https://reedsy.com/ghostwriting/book-ghostwriter" class="nav-link space-left-xs-md">Ghostwriting</a>
+      <a href="https://reedsy.com/website/author-website-design" class="nav-link space-left-xs-md">Websites</a>
+
+      <h5 class="space-top-xs-md">BLOG</h5>
+      <a href="/" class="nav-link">
+              <img data-src="https://blog-cdn.reedsy.com/assets/logo/blog-3bd0d30a20bc9b3477772ae60c86066c9417f24d34e58a888e26d0998f0bb7f2.svg" class="lazyload svg-logo" alt="reedsy blog" width="" height="">
+
+      </a>
+      <a href="/learning" class="nav-link">
+              <img data-src="https://blog-cdn.reedsy.com/assets/logo/learning-acea8d0526de467448701a8adb28a1fdfccdae18076a3b8640bac50bfcb7c05f.svg" class="lazyload svg-logo" alt="reedsy learning" width="" height="">
+
+      </a>
+      <a href="/live" class="nav-link">
+              <img data-src="https://blog-cdn.reedsy.com/assets/logo/live-f2527af69f9e3c920025edf7cd8f884e5793c6505c97caa30d2c069ae1de27f8.svg" class="lazyload svg-logo" alt="reedsy live" width="" height="">
+
+      </a>
+      <a class="nav-link" href="/stories">Success Stories</a>
+
+      <h5 class="space-top-xs-md">APPS</h5>
+      <a href="https://reedsy.com/write-a-book" class="nav-link">
+              <img data-src="https://blog-cdn.reedsy.com/assets/logo/rbe-3ed82262d16e69038e783b9dec5b2b2df8c91e32f24a6882f12cb33856042501.svg" class="lazyload svg-logo" alt="reedsy book editor" width="" height="">
+
+      </a>
+      <a href="https://reedsy.com/discovery" class="nav-link">
+              <img data-src="https://blog-cdn.reedsy.com/assets/logo/discovery-e62fe7e24a6a315e6463ca5914e2097b73a0ceec6c470bfb495fb96948af8d92.svg" class="lazyload svg-logo" alt="reedsy discovery" width="" height="">
+
+      </a>
+      <a href="/creative-writing-prompts/" class="nav-link">
+        <svg class="svg-logo" width="282" height="42" viewBox="0 0 282 42" xmlns="http://www.w3.org/2000/svg"><g fill-rule="nonzero" fill="none"><path d="M10.8 33.3v-2c0-.4-.2-.7-.7-.7L7.6 30V19c1.3-3 3.2-4.6 5.7-4.6a6 6 0 011.8.2l1 .2c.4 0 .6-.2.7-.6l.5-3a6 6 0 00-3.1-.7c-2.9 0-5.2 1.6-6.8 5L7.1 12c0-.4-.1-.7-.3-.9l-.9-.2H.5v1.9c0 .4.2.7.6.8l2.6.5v16l-2.6.5c-.4 0-.6.3-.6.8v1.9h10.3zm16.8.3a14.6 14.6 0 004.9-.9c.8-.2 1.5-.6 2.2-1l1.7-1.6-1-1.4a.9.9 0 00-.8-.4c-.3 0-.6.1-1 .4a14 14 0 01-3 1.4c-.8.3-1.6.4-2.6.4s-2-.2-2.9-.5c-.9-.4-1.6-.9-2.2-1.6a7.5 7.5 0 01-1.5-2.6c-.3-1-.5-2.3-.5-3.7h14.8c.4 0 .7-.1.8-.3.1-.2.2-.6.2-1.3 0-1.5-.2-3-.7-4.2a8.3 8.3 0 00-4.9-5 10.8 10.8 0 00-8 .2 9.5 9.5 0 00-5.4 5.8 15.2 15.2 0 000 9.5c.6 1.4 1.3 2.7 2.3 3.7 1 1 2 1.8 3.4 2.3 1.3.5 2.7.8 4.2.8zm5.6-14H21c.3-2 1-3.4 2-4.5a6 6 0 014.5-1.7 6 6 0 012.4.5 5 5 0 011.8 1.3c.5.5.8 1.2 1 2 .3.7.5 1.5.5 2.4zm16 14a14.6 14.6 0 004.9-.9c.8-.2 1.5-.6 2.2-1 .7-.5 1.2-1 1.7-1.6l-1-1.4a.9.9 0 00-.8-.4c-.3 0-.6.1-1 .4a14 14 0 01-3 1.4c-.8.3-1.6.4-2.6.4s-2-.2-2.9-.5c-.8-.4-1.6-.9-2.2-1.6a7.5 7.5 0 01-1.5-2.6c-.3-1-.5-2.3-.5-3.7h14.9c.3 0 .6-.1.7-.3.1-.2.2-.6.2-1.3 0-1.5-.2-3-.7-4.2a8.3 8.3 0 00-4.9-5 10.8 10.8 0 00-8 .2 9.5 9.5 0 00-5.4 5.8 15.2 15.2 0 000 9.5c.6 1.4 1.3 2.7 2.3 3.7 1 1 2 1.8 3.4 2.3 1.3.5 2.7.8 4.2.8zm5.6-14H42.6c.3-2 1-3.4 2-4.5a6 6 0 014.5-1.7 6 6 0 012.4.5 5 5 0 011.8 1.3c.5.5.8 1.2 1.1 2 .2.7.4 1.5.4 2.4zm13.9 14c2.9 0 5.4-1.3 7.5-3.9l.4 2.8c.1.5.5.8 1 .8h5.5v-2c0-.4-.2-.7-.6-.7L80 30V.7h-7.6v2c0 .4.2.7.7.7l3 .5v9.2a8 8 0 00-6.2-2.6c-3 0-5.3 1.1-7 3.3-1.8 2.2-2.7 5-2.7 8.4 0 3.6.8 6.5 2.3 8.5 1.5 2 3.6 2.9 6.2 2.9zm1.3-3.2a6 6 0 01-2.4-.5c-2.2-1-3.3-3.5-3.3-7.7 0-2.8.6-5 1.7-6.4a5.7 5.7 0 014.9-2.2c2.1 0 3.8.8 5.1 2.6V27c-1.7 2.3-3.7 3.4-6 3.4zm22 3.2c2.5 0 4.4-.7 6-2 1.4-1.3 2.1-3 2.1-5.2 0-1.6-.6-3-1.8-4-.5-.4-1.1-.7-1.8-1a28.3 28.3 0 00-5-1.7c-1-.3-1.9-.9-2.5-1.5-.3-.4-.5-1-.5-1.7 0-.8.4-1.5 1.2-2 .8-.7 1.8-1 3-1h.1c1 0 2.1.1 3.4.4l.3 3c0 .3.3.6.8.6H99v-5.8c-2.3-.8-4.3-1.2-5.8-1.2-2.7 0-4.8.7-6.3 2a5.8 5.8 0 00-2.1 4.5c0 1.8.6 3.1 1.8 4.2l2 1.2a47 47 0 006 2.1c.6.3 1 .7 1.4 1 .3.5.4 1.1.4 2a3 3 0 01-1 2.2 5 5 0 01-3.5 1.1c-1.8 0-3.3-.3-4.6-.9l-.2-2.8c-.1-.4-.3-.6-.7-.6h-1.6v5.9c2.4.8 4.8 1.2 7.3 1.2zm17.8 7.3c.6 0 1.1-.4 1.4-1L122.3 14l1-.2h.2l1.1-.3c.5 0 .7-.4.7-.8v-2h-10v2c0 .4.3.7.7.8l2.4.5-4.8 11.7-.7 2a13 13 0 00-.6-2l-5-11.7 2.5-.5c.4 0 .7-.4.7-.8v-2h-10v2c0 .4.1.7.6.8l.5.1h.3l1.2.3 7.9 18-4.1 8.9h2.9z" id="reedsy" fill="#2A2A2A"/><path d="M135.8 40.9v-2c0-.4-.2-.7-.6-.8a46.6 46.6 0 00-2.6-.5V31a8.3 8.3 0 006.5 2.6c2.8 0 5-1.1 6.8-3.4a13 13 0 002.5-8.3c0-3.6-.7-6.5-2.3-8.5-1.4-2-3.5-3-6.1-3a9.5 9.5 0 00-7.6 4l-.3-2.7c-.1-.5-.5-.8-1-.8h-5.6v1.9c0 .4.2.7.7.8l2.5.5v23.5l-2.5.5c-.5.1-.7.4-.7.9v1.9h10.3zm2-10.4c-2.1 0-3.8-.9-5.2-2.6V17c1.8-2.3 3.8-3.4 6-3.4 3.9 0 5.8 2.7 5.8 8.2 0 2.8-.6 5-1.7 6.4a5.7 5.7 0 01-4.9 2.2zm22.2 2.8v-2c0-.4-.2-.7-.7-.7l-2.5-.6V19c1.3-3 3.2-4.6 5.8-4.6a6 6 0 011.8.2l1 .2c.3 0 .5-.2.6-.6l.5-3a6 6 0 00-3-.7c-3 0-5.2 1.6-6.9 5l-.2-3.5c-.1-.4-.2-.7-.4-.9-.1-.1-.4-.2-.9-.2h-5.4v1.9c0 .4.2.7.7.8l2.5.5v16l-2.5.5c-.5 0-.7.3-.7.8v1.9H160zm17 .3c1.6 0 3-.3 4.4-.8a9.2 9.2 0 003.3-2.3c1-1 1.7-2.2 2.2-3.7.5-1.4.7-3 .7-4.7 0-1.8-.2-3.4-.7-4.8-.5-1.4-1.2-2.6-2.2-3.6-.9-1-2-1.8-3.3-2.3-1.3-.6-2.8-.9-4.5-.9-1.6 0-3 .3-4.4.9a9.5 9.5 0 00-5.5 6 14.2 14.2 0 000 9.5 9.3 9.3 0 005.5 6c1.3.4 2.8.7 4.4.7zm0-3c-1.2 0-2.1-.3-3-.7-.8-.3-1.5-.9-2-1.6-.6-.7-1-1.6-1.3-2.7-.2-1-.4-2.2-.4-3.5 0-1.3.2-2.5.4-3.6.3-1 .7-2 1.3-2.6.5-.8 1.2-1.3 2-1.7.9-.4 1.8-.6 3-.6 2.2 0 3.8.8 4.9 2.3 1 1.4 1.6 3.5 1.6 6.2 0 2.6-.5 4.7-1.6 6.2-1 1.5-2.7 2.2-5 2.2zm22.2 2.7v-2c0-.4-.3-.7-.7-.7l-.9-.2h-.3l-.2-.1-1.2-.3V16.6c1.6-2 3.2-3 5-3 2.9 0 4.3 1.9 4.3 5.4v14.3h7.1v-2c0-.4-.2-.7-.7-.7l-2.5-.6V19c0-1.7.5-3 1.5-4 .9-.9 2-1.3 3.3-1.3 1.5 0 2.6.4 3.4 1.3.7 1 1.1 2.3 1.1 4v14.3h7.2v-2c0-.4-.3-.7-.7-.7l-.7-.2h-.3l-1.5-.4V19c0-2.7-.7-4.8-2-6.3a6.3 6.3 0 00-2.4-1.6c-.9-.4-2-.6-3.4-.6s-2.7.4-4 1.1c-1.3.9-2.3 2-2.8 3.6a7 7 0 00-2-3.4c-1-.8-2.2-1.3-3.8-1.3-2.3 0-4.4 1.2-6.3 3.5l-.3-2.3c-.1-.5-.5-.8-1-.8h-5.6v1.9c0 .4.3.7.7.8l2.5.5v16l-2.5.5c-.4 0-.7.3-.7.8v1.9h10.4zm37.2 7.6v-2c0-.4-.2-.7-.7-.8a46.6 46.6 0 00-2.5-.5V31a8.3 8.3 0 006.5 2.6c2.7 0 5-1.1 6.7-3.4A13 13 0 00249 22c0-3.6-.8-6.5-2.3-8.5-1.5-2-3.5-3-6.2-3a9.5 9.5 0 00-7.5 4l-.3-2.7c-.2-.5-.5-.8-1-.8H226v1.9c0 .4.2.7.7.8l2.5.5v23.5l-2.5.5c-.5.1-.7.4-.7.9v1.9h10.3zm2-10.4c-2.2 0-3.9-.9-5.2-2.6V17c1.7-2.3 3.7-3.4 6-3.4 3.8 0 5.7 2.7 5.7 8.2 0 2.8-.5 5-1.6 6.4a5.7 5.7 0 01-5 2.2zm20 3.1a8.3 8.3 0 005.4-2l-1.2-1.9c-.1-.2-.3-.4-.5-.4l-.4.2a8.6 8.6 0 01-1.4.7l-1 .2c-.8 0-1.4-.2-1.8-.7-.5-.4-.7-1.1-.7-2V14.1h6.4v-2.9h-6.4V3.6h-2a1 1 0 00-.6.2c-.2.2-.3.3-.3.6l-.9 6.9-3.7.4v1.6c0 .3.1.5.3.7l.6.2h2.7v13.7c0 1.8.4 3.3 1.4 4.2 1 1 2.3 1.5 4 1.5zm14.3 0c2.4 0 4.4-.7 5.9-2s2.2-3 2.2-5.2c0-1.6-.6-3-1.8-4l-1.9-1a28.3 28.3 0 00-4.9-1.7c-1-.3-2-.9-2.5-1.5-.4-.4-.5-1-.5-1.7 0-.8.4-1.5 1.2-2 .7-.7 1.7-1 3-1 1 0 2.2.1 3.5.4l.3 3c0 .3.3.6.7.6h1.8v-5.8c-2.4-.8-4.3-1.2-5.9-1.2-2.7 0-4.8.7-6.3 2a5.8 5.8 0 00-2 4.5c0 1.8.5 3.1 1.8 4.2l2 1.2a47 47 0 006 2.1l1.3 1c.3.5.5 1.1.5 2a3 3 0 01-1.1 2.2 5 5 0 01-3.5 1.1c-1.8 0-3.3-.3-4.5-.9l-.3-2.8c0-.4-.3-.6-.7-.6h-1.5v5.9c2.4.8 4.8 1.2 7.2 1.2z" fill="#12A4E2"/></g></svg>
+
+      </a>
+
+      <h5 class="space-top-xs-md">TOOLS</h5>
+      <a class="nav-link" href="/book-promotion-services/">Book Promotion Sites</a>
+      <a class="nav-link" href="/book-review-blogs/">Book Review Blogs</a>
+      <a class="nav-link" href="/booktube-channels/">Booktube Channel Guide</a>
+      <a class="nav-link" href="/book-title-generator/">Book Title Generator</a>
+      <a class="nav-link" href="/character-name-generator/">Character Name Generator</a>
+      <a class="nav-link" href="/epub-to-mobi-converter/">Epub to Mobi Converter</a>
+      <a class="nav-link" href="/independent-publishers/">Independent Publishers</a>
+      <a class="nav-link" href="/literary-magazines/">Literary Magazines</a>
+      <a class="nav-link" href="/pen-name-generator/">Pen Name Generator</a>
+      <a class="nav-link" href="/plot-generator/">Plot Generator</a>
+      <a class="nav-link" href="/short-story-ideas/">Short Story Ideas</a>
+      <a class="nav-link" href="/writing-contests/">Writing Contests</a>
+      <a class="nav-link" href="/writing-exercises/">Writing Exercises</a>
+      <a class="nav-link" href="/writing-scholarships/">Writing Scholarships</a>
+
+      <h5 class="space-top-xs-lg">ABOUT</h5>
+      <a class="nav-link" href="https://reedsy.com/about">About Reedsy</a>
+      <a class="nav-link" href="https://reedsy.com/about/tou">Terms</a>
+      <a class="nav-link" href="https://reedsy.com/about/privacy">Privacy</a>
+    </div>
+  </div>
+  <div class="nav-overlay nav-close"></div>
+</div>
+
+  </header>
+
+  
+
+    <section class="row-super-thin row-blue">
+      <div class="content text-center">
+      <h4>Contest #65 winner 🏆</h4></div>
+    </section>
+
+
+  <section class="row-blue-dark">
+    <div class="content-thin text-center">
+      <h1>
+        Bridgemoss Guardians
+      </h1>
+      <p class="space-top-xs-sm">
+        Submitted for <a class="profile-link" href="/creative-writing-prompts/contests/65/">Contest #65</a> in response to: <i><a class="font-alt no-decoration" href="/creative-writing-prompts/general/start-your-story-with-two-characters-deciding-to-s/">Start your story with two characters deciding to spend the night in a graveyard.</a>...</i>
+        <a class="small profile-link" href="/creative-writing-prompts/general/start-your-story-with-two-characters-deciding-to-s/">view prompt</a>
+      </p>
+    </div>
+  </section>
+
+  <section class="row-thin row-white">
+    <div class="content-thin">
+      <div class="grid no-response gutter-xs-md space-bottom-xs-xs">
+        <div class="cell">
+         <p class="text-grey">
+          <span class="voter_40259">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="16" src="https://blog-cdn.reedsy.com/assets/writing-prompts/like-70274cde215b6656b7cd9dec7ed274ede0bc7e481a5a25ae29f534b88d935097.svg" />
+      230 likes
+</button></span>
+
+          <a href="#comments" class="smooth-scroll space-left-xs-sm no-decoration">
+            <img width="24px" src="https://blog-cdn.reedsy.com/assets/writing-prompts/comment-3d1db3fed1d4fc6970cb84d79aed54691c235505ca1858398db5f9a0730197b3.svg" />
+            118 comments
+          </a>
+        </p>
+        </div>
+        <div class="cell-shrink">
+        </div>
+      </div>
+
+      <div class="panel panel-thin panel-white-bordered space-bottom-xs-sm">
+  <div class="panel-body">
+    <div class="grid no-response gutter-xs-md align-middle">
+      <div class="cell-shrink">
+        <img class="img-avatar avatar-lg" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+      </div>
+      <div class="cell">
+      <a class="no-decoration" href="/creative-writing-prompts/author/joshua-insole/">
+        <h4>Joshua Insole</h4>
+        <p class="small">82 submissions</p>
+</a>      </div>
+      <div class="cell-shrink">
+        <button name="button" type="submit" class="btn-blue-bordered btn-rounded btn-sm trigger-signup-modal">Follow</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+      <p class="small space-top-xs-md space-bottom-xs-sm">
+        Submitted on 10/27/2020
+      </p>
+
+      <p class="small space-bottom-xs-lg">
+        Categories:
+            <a class="btn-grey-dark btn-xxs btn-rounded space-right-xs-sm" href="/short-stories/coming-of-age/">Coming of Age</a>
+            <a class="btn-grey-dark btn-xxs btn-rounded space-right-xs-sm" href="/short-stories/horror/">Horror</a>
+            <a class="btn-grey-dark btn-xxs btn-rounded space-right-xs-sm" href="/short-stories/mystery/">Mystery</a>
+      </p>
+
+      <article class="font-alt submission-content space-top-xs-md space-bottom-xs-lg">
+        <p>She waited for 15 minutes after the sliver of light beneath her bedroom door disappeared. Once she was sure her parents were asleep, Sadie slid the window up and stole down the trellis. The autumnal air swished down into her lungs — crisp, chilly, and delicious. She landed like a cat, crouched, hands on the floor. Sadie didn’t need to jump the last of the way to the ground, but where would the fun be in not doing that?</p><p><br></p><p>Her ten-speed leaned next to the bins — where she’d left it. With a glance up at the droopy eyes of the house, she hopped on her bike and cycled off into the night. After half a minute, she clicked her torch on and plopped it into the basket. The beam sliced through the evening’s ink.</p><p><br></p><p>The streets were empty at this time of night, save for the high school kids. They drove around, windows obscured with pot smoke, beers in one hand, steering wheels in the other. Sadie didn’t bother to hide from these, but she did take caution to avoid collisions. If only her father — who grumbled about their poor driving skills — could see them now.</p><p><br></p><p>It didn’t take her long to reach Lisa’s house. Google Maps told her it was an 11-minute journey, but she always raced to beat the time. She usually made it in seven minutes or less. Not that she had her phone with her now. Her parents had installed a tracking app a few months back. Sadie left the blasted thing plugged in on her nightstand. Should they check in the morning, it’d seem she’d slept the night through. It never occurred to them that their modern child would leave the house without it. As far as they were aware, they’d succeeded in their attempts to curb their daughter’s night time excursions.</p><p><br></p><p>She flashed her light at Lisa’s window. On, off. On, off. On, off.</p><p><br></p><p>First, nothing. Then, the curtains stirred and the window clunked open. Sadie caught wind of a sigh. The voice that whispered down to her was thick with drowsiness. “I thought you were joking about tonight, Sadie.”</p><p><br></p><p>“I never joke about a hunt! Besides, your mom’s working the night shift tonight, is she not?”</p><p><br></p><p>Lisa groaned. “Can’t we just sleep? I’m tired!”</p><p><br></p><p>Sadie shone the light across Lisa’s form. “Evil never sleeps, Lisa!” Sadie grinned. Lisa had not yet gotten into her pink pyjamas. “Mr Moore has been found dead in his home!”</p><p><br></p><p>“Really? Oh, God. Fine Just get that light outta my face, will ya? I’ll be down in a moment.”</p><p><br></p><p>Sadie clicked the torch off and waited. After a spell, the front door of the Brown’s house opened and closed. Lisa wrapped her cardigan around her and shivered. “Mr Moore is dead?”</p><p><br></p><p>“And a good evening to you too, my fellow protector!”</p><p><br></p><p>“Sade?”</p><p><br></p><p>“Well, not dead…”</p><p><br></p><p>Lisa threw her head back and growled. “You always do this.”</p><p><br></p><p>“But he did say that a bat tried to enter his home last night! A spectre of the macabre, I’ve no doubt. We should ensure the foul beast does not find any more prey.”</p><p><br></p><p>Lisa watched her breath float away. “Why’d we have to go out again this week, Sade? We went out on Sunday.”</p><p><br></p><p>Sadie sniffed the air. “Darkness lurks these streets, Lis. I can smell it.”</p><p><br></p><p>“All I can smell is your bul—”</p><p><br></p><p>Sadie silenced her with an upraised hand. “Quickly. My senses are tingling. We must head off the leech before he leaves his enclosure!”</p><p><br></p><p>Lisa’s shoulders slumped. “Fine, but no more than an hour, yeah? It’s a school night.”</p><p><br></p><p>Sadie nodded, hand over her heart. “Scout’s honour. You got the stake?”</p><p><br></p><p>Lisa rolled her eyes. “Yes, Mom.” She patted her rucksack. “Don’t know why I’ve gotta be the one to store all this crap. If I get caught with it, people will think I’m a loony.”</p><p><br></p><p>“‘Cos your mom doesn’t search your room, Lis. Now, hop on.”</p><p><br></p><p>Lisa did as Sadie told her, but grumbled as she did so. “Maybe there’s a reason your parents search your room, Sade. You’re mental.”</p><p><br></p><p>“If being labelled mental is the price I have to pay to ensure the safety of the citizens of Bridgemoss,” Sadie said as she began to pedal with a grunt, “then so be it!”</p><p><br></p><p>Lisa took a deep breath. “You gotta grow up at some point, Sade. We’ll be in high school next year. We don’t wanna be labelled as the weird girls. Those chicks never get dates.”</p><p><br></p><p>“And still you doubt my gifts! You should have learned by now that this world is darker and more mysterious than the grownups would have you believe.”</p><p><br></p><p>“So you keep saying.”</p><p><br></p><p>“Do you not remember The Wolf of St Wisnis?”</p><p><br></p><p>“…that was a stray dog.”</p><p><br></p><p>“Ah, but did we not help the pound in catching a most evasive beast?”</p><p><br></p><p>“Yeah, all right. I’ll agree we did some good there. We helped a homeless dog find shelter. I think Katy’s family adopted him.”</p><p><br></p><p>“And of the ghosts of West Wootbridge?”</p><p><br></p><p>“You mean the broken windchimes that Mrs Andrews had in her porch? That sounded like wailing?”</p><p><br></p><p>“And did we not put an end to such ghastly choruses?”</p><p><br></p><p>“We stole them, fixed them, then hung ‘em up again.”</p><p><br></p><p>Sadie sighed. “Ah, another citizen protected!”</p><p><br></p><p>Lisa chuckled. “Absolutely mental. So, where is it we’re heading tonight? I don’t wanna go trudging through dirty streams full of broken glass and needles again. My mum’ll kill me if I wreck another pair of trainers.”</p><p><br></p><p>“Tonight, my fellow protector, we must head the destroyer off before he even leaves his lair!”</p><p><br></p><p>“Oh, Jesus. I hate the cemetery.”</p><p><br></p><p><br></p><p><br></p><p><br></p><p>***</p><p><br></p><p><br></p><p><br></p><p><br></p><p>A thick mist clung to the ground. It seemed to seep from the very pores of the earth itself and offered the place a pale illumination. The tombstones pointed this way and that, drunkards who leaned against doorframes.</p><p><br></p><p>The only sounds were their own ragged breaths and their footsteps as they squelched in the mud.</p><p><br></p><p>“I don’t like this, Sade. It’s creepy.”</p><p><br></p><p>“But have we not sworn an oath to brave the creeps of this world?”</p><p><br></p><p>“An oath that you made up.”</p><p><br></p><p>“An oath is an oath, my fellow guardian. Aren’t all oaths made up, at some point or another? At what point do they start to mean something?”</p><p><br></p><p>Lisa hesitated. “Fair enough. But I still don’t like this.”</p><p><br></p><p>Sadie turned to face her, a toothy grin on her face. “So you admit that there is something out here tonight? You feel it too!” She clenched a fist. “I knew under my tutelage you’d soon hone your senses.”</p><p><br></p><p>Lisa pulled her cardigan ever higher around her chest — any further, and she’d risk ripping the damn thing. “I-I don’t know. But I know that if we get stabbed and mugged, my mom’ll be more pissed than upset. At first, anyway.”</p><p><br></p><p>“We need not worry about being impaled by the drinker of life, it is he who should worry about us doing so to him!”</p><p><br></p><p>Lisa frowned. “Sometimes, Sade, you get so wrapped up in your theatrics that you make no goddamn sense.”</p><p><br></p><p>Sadie shrugged. “We gon’ stab the vampire.”</p><p><br></p><p>“Much better. But, still, can we go home? This is creepy. And I legit don’t wanna get hurt.”</p><p><br></p><p>Sadie pointed forward with the stake. “Hush, now!” The moss-covered stones — features softened by the weather — gave way to the maze of the vaults. “We draw near to the crypts, my sweet, poor, innocent, Lisa.”</p><p><br></p><p>Narrow structures with ancient doors, each one of a different design. Pointed rooves adorned with all manner of crucifixes. Steps led up or down to the entrances — all smothered in decayed leaves, wet with moisture. Thin, barely-passable alleys wove between the stone tombs. The way ahead was impossible to see.</p><p><br></p><p>“Oh, I hate this place,” said Lisa. Her voice rustled like the leaves beneath their feet. Low, quiet.</p><p><br></p><p>“Fear not, young padawan, for I am here to guide you through tonight’s gauntlet.”</p><p><br></p><p>Lisa stopped a few steps short of the labyrinth. “Ten minutes. That’s all you get, Sade. Ten minutes, and then we’re back out and heading home. Deal?”</p><p><br></p><p>“But we only just got here!”</p><p><br></p><p>“Sadie, this is insane. I wanna be back at home. In bed. With a hot chocolate. And a good book.”</p><p><br></p><p>Sadie lamented. “All right, Lis. But if the winged bringer of doom takes another life—”</p><p><br></p><p>“Mr Moore is still alive and kicking.”</p><p><br></p><p>“—takes a life, then that blood shall be on our hands!”</p><p>Lisa eyed the first row sepulchres and chewed her lip. “Ten minutes, Sade.”</p><p><br></p><p>Sadie thrust the stake forward. “To the lair of der Vampir!”</p><p><br></p><p><br></p><p><br></p><p><br></p><p>***</p><p><br></p><p><br></p><p><br></p><p><br></p><p>“Okay, Sade. You’ve had 13 minutes—”</p><p><br></p><p>“An evil number, if I ever heard one. Let’s stay another minute.”</p><p><br></p><p>They were deep in the crypts, had walked nonstop — ears pricked, eyes peeled. They’d not found anything out of place, much to Lisa’s prediction and to Sadie’s chagrin.</p><p><br></p><p>“Sadie.” Lisa’s voice hardened. It startled Sadie. It was the type of tone her mother would use on her. They weren’t little kids any more, and her heart ached to see her childhood now in the rearview mirror.</p><p><br></p><p>“All right, all right, let’s go. Here.” She handed Lisa the stake. “For safekeeping. Next time, you get to pick what we do.”</p><p><br></p><p>Lisa smiled. “Thanks, Sade.”</p><p><br></p><p>“But no chick-flicks!”</p><p><br></p><p>“No, but no eighties horror movies that—” Lisa’s eyes darted to the point over Sadie’s shoulder. She frowned.</p><p><br></p><p>Sadie snatched the stake from Lisa’s hands and twisted around. “En garde!” But there was no denizen of the night there.</p><p><br></p><p>Only the faded stone of an ancient crypt.</p><p><br></p><p>With the door open ajar.</p><p><br></p><p>A foul breath gasped through the crack.</p><p><br></p><p>“Aha! The beast has not hidden his abode well,” Sadie said, voice a whisper. She gripped the stake tighter, knuckles white, teeth visible in her moonlit grin.</p><p><br></p><p>“Shh! Sadie, this is serious!” Lisa put a hand on her shoulder before she could take a step. “There could be graverobbers or anyone down there!”</p><p><br></p><p>“I take my hunting very seriously, thank you, dear guardian.” Sadie pulled away and strode towards the black door. “And if they disturb the slumber of the beast, it could spell doom for us all!”</p><p><br></p><p>An archway curled around the edges of the door, with slots for lanterns above and either side. The lanterns were present, but their innards were devoid of flame. Sadie paused at the foot of the steps, which ascended to the door. She read the name carved into the stone above the archway. “Loretta Zaleska,” she said in awe, “and here we were thinking that the vamp was a man.” Sadie tutted and shook her head. She looked at Lisa. “Not very progressive of us, was it?”</p><p><br></p><p>“We’re not actually going down there. Are we? ‘Cos that’s trespassing. We could get arrested.”</p><p><br></p><p>“We’d be doing the local law enforcement fools a favour — ridding them of one more vermin!”</p><p><br></p><p>“I don’t think that’s how they’d see it, Sade. And I don’t want to get a criminal record before I’m halfway through my teens. My mum’ll make me wish I got stabbed by junkies if that happens.”</p><p><br></p><p>“Just a quick peek, Lis.” Sadie offered her the puppy-dog eyes. “Please.”</p><p><br></p><p>“No. I’m not going down there.”</p><p><br></p><p>Sadie smiled at her. A smile that Lisa knew all too well. “I’ll be down just for a sec, Lis. You stay here.”</p><p><br></p><p>“No, Sadie, wait—”</p><p><br></p><p>But Sadie had already leapt up the steps and was at the door.</p><p><br></p><p>Lisa loosed a noise of exasperation and then followed her friend. “I swear, you’re going to get me killed.” The wet leaves squelched and squidged beneath her converse.</p><p><br></p><p>“You don’t have to join me, y’know.” Sadie had one hand on the door, the other held the stake in a Ramboesque pose. “I can defend Bridgemoss by my lonesome.”</p><p><br></p><p>“Because somebody’s gotta make sure you don’t get yourself killed.”</p><p><br></p><p>Sadie nodded. “Very wise. Who defends the defender?” She pushed the door open. It squalled on its hinges, loud and rusty.</p><p><br></p><p>Lisa grunted. She was about to say that the only thing Sadie’d defended anyone from was a night of peaceful sleep. But then a noise from the depths froze the words in her throat.</p><p><br></p><p>The scrape of stone.</p><p><br></p><p>Followed by a thud.</p><p><br></p><p>A sandpaper groan.</p><p><br></p><p>There was actually somebody down there.</p><p><br></p><p><br></p><p><br></p><p><br></p><p>***</p><p><br></p><p><br></p><p><br></p><p><br></p><p>“Sadie,” Lisa licked her lips, “Sadie, we should leave.” Lisa’s eyes were wide and wild. “I don’t like this, not one bit.”</p><p><br></p><p>Sadie remained a statue, one hand on the door — which was now two-thirds of the way open. Her heart bounced from side to side in her ribcage. She reaffirmed her grip on the stake. “I, uh,” she cleared her throat, “I think there’s something in there. Like, something <em>actually </em>in there.”</p><p><br></p><p>“Yeah? No shi—”</p><p><br></p><p>Sadie raised a finger to her friend’s lips. “Shh!” Her eyes darted back and forth and she squinted. “I’m listening.”</p><p><br></p><p>“Sadie, let’s call the cops and get outta here!” Lisa shuffled and pulled her phone out of her pocket. She swore. “Dead. This thing never holds its charge, any more! Lend me yours, Sade.”</p><p><br></p><p>A hiccough in the rhythmic <em>thump-thump-thump</em> of her heart. “I left it at home.”</p><p><br></p><p>“You what?”</p><p><br></p><p>“Mum ‘n’ Dad keep trying to track my movements. So, I left it.”</p><p><br></p><p>“Oh Jesus, Sade. Let’s go. Let’s go now.”</p><p><br></p><p>“Shush, I said! I can hear something…”</p><p><br></p><p>Lisa bit her tongue and held her breath. “I don’t—”</p><p><br></p><p>“<em>There</em>.”</p><p><br></p><p>A thud. A thump. The unmistakable sound of footsteps on stone.</p><p><br></p><p>Sadie turned to face Lisa. Her gut plummeted into the ground. “It’s coming this way.”</p><p><br></p><p>The colour drained from Lisa’s face. A small squeak escaped her pressed-together lips.</p><p><br></p><p>Sadie grabbed her friend by the shoulders. “We’ve got to hide, Lis.”</p><p><br></p><p>Lisa nodded and glanced around — a frightened rabbit in headlights. “Where, Sadie? Where?”</p><p><br></p><p>“Behind the crypt, c’mon!”</p><p><br></p><p>Sadie had to all but drag Lisa with her — further into the stone maze of the cemetery’s lifeless heart. They went past one, two, three rows of vaults and then hooked to the side. Sadie hunkered down and pulled Lisa down into a crouch, the eddies of fog now as high as their chests. To dip into that greyness was to plunge into ice. She pressed her finger to her lips and nodded. “Shh.”</p><p><br></p><p>She braced against the rear of a tomb for balance and listened.</p><p><br></p><p>Nothing.</p><p><br></p><p>No thumps, thuds, slaps, taps, groans or growls.</p><p><br></p><p>All was silent.</p><p><br></p><p>Somewhere, an insect chirped. A bird cried out, and Lisa let out a little squeal. Sadie reached out and squeezed her hand.</p><p><br></p><p>They waited. Sadie counted to a minute twice, and still, there was nothing. “Hey, Lis, you still with me?”</p><p><br></p><p>The other girl nodded.</p><p><br></p><p>“I think tha—”</p><p><br></p><p>A hoarse moan rent the air, sliced her sentence in half.</p><p><br></p><p>Lisa’s eyes bulged out of their sockets and she clamped her hands over her mouth. Gooseflesh prickled up all over Sadie’s body.</p><p><br></p><p>“You need to get outta here.”</p><p><br></p><p>Lisa nodded.</p><p><br></p><p>“I’m gonna go see what it is.”</p><p><br></p><p>Lisa gripped Sadie’s forearm in a claw, her nails dug into the skin. “Are you crazy? This isn’t a game Sadie — not anymore. Let’s just get the hell out of this place and pretend nothing ever happened, ‘kay?”</p><p><br></p><p>“But there is something there.” Sadie’s eyes darkened as she broke free of Lisa’s grip and stood up. She clutched the stake to her chest. “And I’m gonna find out what it is.”</p><p><br></p><p>“Are you insane? We need to go!”</p><p><br></p><p>Sadie cast her eyes down to the ground. “I can’t,” she whispered. “We’ll be in high school next year, and these hunts…” Something swelled within her chest. “This year will be the last year we can do this. Properly. I don’t want to give it up, Lis. Not just yet.”</p><p><br></p><p>“I’m not going to convince you to leave, am I?” The defeat in Lisa’s voice was tangible, but intermingled with it was something else. Pity? Love?</p><p><br></p><p>She shook her head and said nothing. “But you can go. Really.” She nodded further into the crypts. “If you keep going, you’ll eventually come to the other side. The fence there isn’t too high, you should be able to climb it fairly easily. You can head home if you want. I’ll be fine. I’ll catch up with you tomorrow.”</p><p><br></p><p>Lisa glanced in the direction Sade had directed. She hesitated for a moment, seemed to mull it over. She shook her head. “No way in hell I’m leaving you here alone.” She got to her feet — with some difficulty, due to how much she shook. “We’re the Bridgemoss Guardians,” she pulled a crucifix from her bag, “and we do things together.”</p><p><br></p><p><br></p><p><br></p><p><br></p><p>***</p><p><br></p><p><br></p><p><br></p><p><br></p><p>They waited for 15 minutes until the figures had shuffled on by, hearts lodged in throats. The girls never got a good look at them, but it didn’t matter — their imaginations filled in the blanks.</p><p><br></p><p>Once they were sure the horde had passed them, the pair made a break for the cemetery fence. Together, they scrambled up the wrought iron as laughter bubbled within them. Lisa had not felt this giddy in years. Adrenaline coursed through her veins. God, she felt so <em>alive</em>.</p><p><br></p><p>As they stole down the other side of the fence, the midnight air rushed down her throat, sweet and cool. She and Sadie landed in synchronism, on all fours, as was the most fun way to do it.</p><p><br></p><p>She cast one last glance at the cemetery before they sped off on Sadie’s ten-speed. Shadows and mysteries lurked in every crevice, nook and cranny. Excitement. Wonder.</p><p><br></p><p><em>Magic</em>.</p><p><br></p><p>Who’d want to give that up? In exchange for drab adulthood?</p><p><br></p><p>“We coming back tomorrow?” Lisa had to shout over the sound of the screaming wind.</p><p><br></p><p>“Oh, hell yeah!” She could hear the smile in Sadie’s voice.</p><p><br></p><p>“But we’re gonna need something more than stakes. I think those back there were zombies!”</p><p><br></p><p>Sadie laughed as she pedalled with fury and the wind whipped their hair. “You’re learning fast, my protégé. Bridgemoss Guardians away!”</p>
+      </article>
+
+      <div class="grid align-vertical-middle">
+        <div class="cell-sm-10 cell-md-8 grid gutter-xs-md text-center space-bottom-xs-md no-response">
+          <div class="cell">
+            <a class="no-decoration" target="_blank" href="https://twitter.com/intent/tweet?text=Check%20out%20this%20short%20story%20%27Bridgemoss%20Guardians%27%20on%20%23ReedsyPrompts%20%E2%80%93%C2%A0%40ReedsyHQ%20https%3A%2F%2Fblog.reedsy.com%2Fcreative-writing-prompts%2Fcontests%2F65%2Fsubmissions%2F40259%2F"><img width="80" src="https://blog-cdn.reedsy.com/assets/writing-prompts/twitter-138b4ab3f51f48b4ac42bbb56d54902f066491c02a99a7a176380eaca8824da5.svg" /><br>
+      <div style='margin-top:16px'>Twitter</div></a>
+          </div>
+          <div class="cell">
+            <a class="no-decoration" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fblog.reedsy.com%2Fcreative-writing-prompts%2Fcontests%2F65%2Fsubmissions%2F40259%2F"><img width="80" src="https://blog-cdn.reedsy.com/assets/writing-prompts/facebook-7e16ccf4a5ffb36a2a059371ec3306d9d575386e304c327447802d790b996c12.svg" /><br>
+      <div style='margin-top:16px'>Facebook</div></a>
+          </div>
+          <div class="cell">
+            <a class="no-decoration" target="_blank" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fblog.reedsy.com%2Fcreative-writing-prompts%2Fcontests%2F65%2Fsubmissions%2F40259%2F"><img width="80" src="https://blog-cdn.reedsy.com/assets/writing-prompts/pinterest-ea7dc9dad1a19b3951b2a17684f66aa194e56add1fd3673c665f842c73e93420.svg" /><br>
+      <div style='margin-top:16px'>Pinterest</div></a>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel panel-thin panel-white-bordered space-bottom-xs-sm">
+  <div class="panel-body">
+    <div class="grid no-response gutter-xs-md align-middle">
+      <div class="cell-shrink">
+        <img class="img-avatar avatar-lg" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+      </div>
+      <div class="cell">
+      <a class="no-decoration" href="/creative-writing-prompts/author/joshua-insole/">
+        <h4>Joshua Insole</h4>
+        <p class="small">82 submissions</p>
+</a>      </div>
+      <div class="cell-shrink">
+        <button name="button" type="submit" class="btn-blue-bordered btn-rounded btn-sm trigger-signup-modal">Follow</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+      <div id="comments" class="comment-form">
+<!-- Signed in -->
+  <div class="comment-header">
+      <textarea name="body" id="body" placeholder="Discuss this story..." disabled="disabled">
+</textarea>
+      <div class="grid space-top-xs-sm space-bottom-xs-md gutter-xs-md align-middle">
+        <div class="cell">
+          <p class="small">You must <a class="text-blue" href="/auth/sign_up">sign up</a> or <a class="text-blue" href="/auth/sign_in">log in</a> to submit a comment.</p>
+        </div>
+        <div class="cell-shrink">
+          <input type="submit" name="commit" value="Post comment" class="btn-blue btn-sm btn-full-mob" id="comment-submit" disabled="disabled" data-disable-with="Post comment" />
+        </div>
+      </div>
+
+  <!-- List comments -->
+    <h4 class="space-top-xs-sm">
+      <span class="voter_40259">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="16" src="https://blog-cdn.reedsy.com/assets/writing-prompts/like-70274cde215b6656b7cd9dec7ed274ede0bc7e481a5a25ae29f534b88d935097.svg" />
+      230 likes
+</button></span>
+
+      <span class="space-left-xs-sm" id="comment-number">118 comments</span>
+    </h4>
+  </div>
+  <div id="comment-container">
+    
+<!-- Comment -->
+<div id="comment-193574" class="comment-container ">
+  <div id="comment-content-193574" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/zilla-babbitt/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/254697/bf7c7e2b72bd650a8fa6612c5defc764c55140eb.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_193574 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      12 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/zilla-babbitt/">Zilla Babbitt</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          21:30 Nov 06, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Vivid and intense. I love how the lighthearted dialogue contrasts so clearly with the scariness of the crypt and cold night. Deserved win!</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-193574" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="193574"></div>
+  <div id="comment-nest-193574-content">
+      
+<!-- Comment -->
+<div id="comment-196822" class="comment-container nested">
+  <div id="comment-content-196822" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196822 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      9 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:23 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thanks, Zilla! :) I really appreciate it.</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196822" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196822"></div>
+  <div id="comment-nest-196822-content">
+      
+<!-- Comment -->
+<div id="comment-197011" class="comment-container nested">
+  <div id="comment-content-197011" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/zilla-babbitt/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/254697/bf7c7e2b72bd650a8fa6612c5defc764c55140eb.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_197011 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      7 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/zilla-babbitt/">Zilla Babbitt</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          21:26 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Of course!</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-197011" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="197011"></div>
+  <div id="comment-nest-197011-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-197011"
+      class="show-replies small text-blue"
+      data-comment-nest-id="197011">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196822"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196822">
+  Show 1 reply
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-193574"
+      class="show-replies small text-blue"
+      data-comment-nest-id="193574">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-193510" class="comment-container ">
+  <div id="comment-content-193510" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/rayhan-hidayat/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/590410/9ab453a37020c3843b79b132eaac65302db40d7e.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_193510 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      11 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/rayhan-hidayat/">Rayhan Hidayat</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:24 Nov 06, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">This is the magic of childhood, right here. I love the sense of wistfulness underneath everything. Perhaps the only real ghosts are the memories we leave behind. Congrats! 🥳</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-193510" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="193510"></div>
+  <div id="comment-nest-193510-content">
+      
+<!-- Comment -->
+<div id="comment-196823" class="comment-container nested">
+  <div id="comment-content-196823" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196823 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      5 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:24 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thank you, Rayhan! That&#39;s incredibly true -- I like that a lot. Beautifully put! :)</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196823" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196823"></div>
+  <div id="comment-nest-196823-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196823"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196823">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-193510"
+      class="show-replies small text-blue"
+      data-comment-nest-id="193510">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-186344" class="comment-container ">
+  <div id="comment-content-186344" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/katina-foster/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/639459/4b1a1e49753c35faea1e0354cd9c615b968f7a55.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_186344 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      9 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/katina-foster/">Katina Foster</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          02:05 Nov 01, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">This is such a fun story! I love the &quot;beasts&quot; the girls encountered during their previous adventures. 
+
+You perfectly captured the adventure and excitement one only really feels during childhood. I enjoyed how Sadie seemed aware of her own fleeting childhood and sought to recapture it with her friend. Despite being the goofy one (with awesome dialogue), she comes off as the more mature one in a way. Very well done!</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-186344" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="186344"></div>
+  <div id="comment-nest-186344-content">
+      
+<!-- Comment -->
+<div id="comment-196821" class="comment-container nested">
+  <div id="comment-content-196821" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196821 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:22 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thanks, Katina! I&#39;m really glad you had fun, I had a blast writing it. :) Your comment means so much!</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196821" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196821"></div>
+  <div id="comment-nest-196821-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196821"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196821">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-186344"
+      class="show-replies small text-blue"
+      data-comment-nest-id="186344">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-193225" class="comment-container ">
+  <div id="comment-content-193225" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/bob-jasper/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/586679/867b9a00623e417b4844f0dffcffb808848bad58.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_193225 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      8 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/bob-jasper/">Bob Jasper</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          17:01 Nov 06, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Congratulations, Joshua. Fun story. Reminds me of things we used to do when I was that age, but we were boys in a small town. It never occurred to me that girls could be so adventurous. Of course, I read Hardy Boys and not Nancy Drew. We only ventured into cemeteries at night when I was older (17 or 18).</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-193225" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="193225"></div>
+  <div id="comment-nest-193225-content">
+      
+<!-- Comment -->
+<div id="comment-196827" class="comment-container nested">
+  <div id="comment-content-196827" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196827 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:29 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thanks, Bob! I&#39;m glad you enjoyed the tale. :) That it reminds you of your own childhood is a great compliment!</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196827" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196827"></div>
+  <div id="comment-nest-196827-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196827"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196827">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-193225"
+      class="show-replies small text-blue"
+      data-comment-nest-id="193225">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-193543" class="comment-container ">
+  <div id="comment-content-193543" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/kathy-m/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/536992/79f0b60dc6b593c51e4e6358885c8ebad8c83fad.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_193543 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      7 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/kathy-m/">Kathy M</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          21:10 Nov 06, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Congratulations on the win! VERY well deserved. I loved how you incorporated both humor and suspense into this story, it had me hooked from the beginning. I do stuff like this with my friends all the time so it was very relatable to! (except we never find any scary stuff 😕) But I just loved this story. I fell in love with Sadie&#39;s hilarious word choices and Lisa&#39;s reluctance, and their whole character. You built Sadie&#39;s character so well, I felt like a had known her forever. Well deserved win!</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-193543" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="193543"></div>
+  <div id="comment-nest-193543-content">
+      
+<!-- Comment -->
+<div id="comment-196826" class="comment-container nested">
+  <div id="comment-content-196826" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196826 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:28 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thank you, Kathy! I love that so many people are reminded of their own childhoods by this story -- makes me so happy. Thanks for your comments, they mean so much. :)</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196826" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196826"></div>
+  <div id="comment-nest-196826-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196826"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196826">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-193543"
+      class="show-replies small text-blue"
+      data-comment-nest-id="193543">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-193106" class="comment-container ">
+  <div id="comment-content-193106" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/avani-gupta/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/467180/eeb35d331bddcddfdbb0a6d16f64120bb01356fd.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_193106 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      7 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/avani-gupta/">Avani Gupta</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          14:53 Nov 06, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">This was amazingly thought out and even better written. I laughed the whole way at Sadie and felt sorry for Lisa (I could probably relate with her the most). Deserved win!</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-193106" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="193106"></div>
+  <div id="comment-nest-193106-content">
+      
+<!-- Comment -->
+<div id="comment-196824" class="comment-container nested">
+  <div id="comment-content-196824" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196824 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:24 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thanks, Avani! So glad I could make you laugh with my little story. :D</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196824" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196824"></div>
+  <div id="comment-nest-196824-content">
+      
+<!-- Comment -->
+<div id="comment-196838" class="comment-container nested">
+  <div id="comment-content-196838" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/avani-gupta/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/467180/eeb35d331bddcddfdbb0a6d16f64120bb01356fd.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196838 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/avani-gupta/">Avani Gupta</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:34 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">No problem, Joshua!</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196838" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196838"></div>
+  <div id="comment-nest-196838-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196838"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196838">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196824"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196824">
+  Show 1 reply
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-193106"
+      class="show-replies small text-blue"
+      data-comment-nest-id="193106">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-193719" class="comment-container ">
+  <div id="comment-content-193719" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/lynne-street/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/752414/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_193719 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      5 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/lynne-street/">Lynne Street</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          23:36 Nov 06, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">No wonder you won ... Congratulations.
+The seemingly amusing youngsters - out on the prowl for who knows what - became more and more weird. Weird in that wonderful way that makes us read on. 
+Great imagery, realistic dialogue (given Sadie&#39;s out-of-the-ordinary interest/craze), and a hook to end all made for great reading.</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-193719" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="193719"></div>
+  <div id="comment-nest-193719-content">
+      
+<!-- Comment -->
+<div id="comment-196828" class="comment-container nested">
+  <div id="comment-content-196828" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196828 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      3 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:29 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thanks, Lynne! Such a lovely comment. :)</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196828" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196828"></div>
+  <div id="comment-nest-196828-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196828"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196828">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-193719"
+      class="show-replies small text-blue"
+      data-comment-nest-id="193719">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-193697" class="comment-container ">
+  <div id="comment-content-193697" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/vickie-culbertson/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/339970/eeb35d331bddcddfdbb0a6d16f64120bb01356fd.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_193697 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      5 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/vickie-culbertson/">Vickie Culbertson</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          23:15 Nov 06, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Congratulations! Excellent writing. </p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-193697" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="193697"></div>
+  <div id="comment-nest-193697-content">
+      
+<!-- Comment -->
+<div id="comment-196829" class="comment-container nested">
+  <div id="comment-content-196829" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196829 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      3 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:30 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thanks, Vickie! :)</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196829" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196829"></div>
+  <div id="comment-nest-196829-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196829"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196829">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-193697"
+      class="show-replies small text-blue"
+      data-comment-nest-id="193697">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-193652" class="comment-container ">
+  <div id="comment-content-193652" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/r-l-brewer/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/584874/867b9a00623e417b4844f0dffcffb808848bad58.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_193652 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      5 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/r-l-brewer/">R l Brewer</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          22:19 Nov 06, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Awesome story. Congratulations.</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-193652" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="193652"></div>
+  <div id="comment-nest-193652-content">
+      
+<!-- Comment -->
+<div id="comment-196830" class="comment-container nested">
+  <div id="comment-content-196830" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196830 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      3 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:30 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thank you! So glad you liked it. :)
+</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196830" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196830"></div>
+  <div id="comment-nest-196830-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196830"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196830">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-193652"
+      class="show-replies small text-blue"
+      data-comment-nest-id="193652">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-193530" class="comment-container ">
+  <div id="comment-content-193530" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/nora-k-1c2394/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/762941/bdf604714f470160f95a4cda4782c3789045ca03.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_193530 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      5 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/nora-k-1c2394/">Nora K</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:59 Nov 06, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Amazing story!! Wonderfully written and the descriptions are fantastic! Congratulations on the win! :)</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-193530" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="193530"></div>
+  <div id="comment-nest-193530-content">
+      
+<!-- Comment -->
+<div id="comment-196831" class="comment-container nested">
+  <div id="comment-content-196831" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196831 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      3 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:30 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thank you, Nora! That means so much. :)</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196831" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196831"></div>
+  <div id="comment-nest-196831-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196831"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196831">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-193530"
+      class="show-replies small text-blue"
+      data-comment-nest-id="193530">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-193083" class="comment-container ">
+  <div id="comment-content-193083" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/scout-tahoe/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/325344/867b9a00623e417b4844f0dffcffb808848bad58.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_193083 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      5 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/scout-tahoe/">Scout Tahoe</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          14:17 Nov 06, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Wow! This was incredible. Your descriptions stuck with me throughout the story. Congrats on the 3rd win! </p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-193083" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="193083"></div>
+  <div id="comment-nest-193083-content">
+      
+<!-- Comment -->
+<div id="comment-196902" class="comment-container nested">
+  <div id="comment-content-196902" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196902 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      5 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:59 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thanks, Scout! So pleased to have won three times! The quality of the competition is fierce, never thought it would happen. Some phenomenal writers on here!</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196902" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196902"></div>
+  <div id="comment-nest-196902-content">
+      
+<!-- Comment -->
+<div id="comment-196957" class="comment-container nested">
+  <div id="comment-content-196957" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/scout-tahoe/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/325344/867b9a00623e417b4844f0dffcffb808848bad58.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196957 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      5 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/scout-tahoe/">Scout Tahoe</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          21:21 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">That is very true. Congrats, again. 
+Feel free to check out one of mine...your writing is fabulous and your feedback is valuable. </p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196957" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196957"></div>
+  <div id="comment-nest-196957-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196957"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196957">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196902"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196902">
+  Show 1 reply
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-193083"
+      class="show-replies small text-blue"
+      data-comment-nest-id="193083">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-196070" class="comment-container ">
+  <div id="comment-content-196070" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/hannah-gates/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/avatar/default/046a037390e26e3bd03e8d7210f8b85c9e60a27f.png" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196070 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/hannah-gates/">Hannah Gates</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          04:08 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">A thrilling read! I love how the friends&#39; loyalty to each other also holds the plot together.</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196070" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196070"></div>
+  <div id="comment-nest-196070-content">
+      
+<!-- Comment -->
+<div id="comment-196835" class="comment-container nested">
+  <div id="comment-content-196835" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196835 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      3 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:32 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thanks, Hannah. I really love writing great friends -- makes me feel all warm inside. :)</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196835" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196835"></div>
+  <div id="comment-nest-196835-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196835"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196835">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196070"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196070">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-196064" class="comment-container ">
+  <div id="comment-content-196064" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/ash-hale/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/644040/04370e04e1e8bae732fc601068a5df5f1b9ad9d2.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196064 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/ash-hale/">Ash Hale</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          04:00 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Bears stark resemblance to Hube Halloween!
+Beautifully written.
+You have captured the inquisitive nature of children☺</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196064" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196064"></div>
+  <div id="comment-nest-196064-content">
+      
+<!-- Comment -->
+<div id="comment-196837" class="comment-container nested">
+  <div id="comment-content-196837" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196837 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:34 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thank you, Ash! I often worry, as a man who is edging closer to 30, that writing about kids believably is risky. So glad I succeeded! Thank you. Your comments really made me smile. :)</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196837" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196837"></div>
+  <div id="comment-nest-196837-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196837"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196837">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196064"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196064">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-195821" class="comment-container ">
+  <div id="comment-content-195821" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/asha-cole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/779570/867b9a00623e417b4844f0dffcffb808848bad58.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_195821 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/asha-cole/">Asha Cole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          00:30 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Aww, I wanna sequel with Sadie and Lisa in highschool. Such a cute story </p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-195821" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="195821"></div>
+  <div id="comment-nest-195821-content">
+      
+<!-- Comment -->
+<div id="comment-196839" class="comment-container nested">
+  <div id="comment-content-196839" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196839 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      3 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:34 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">That&#39;s a glowing review! Thanks, Asha! :)</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196839" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196839"></div>
+  <div id="comment-nest-196839-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196839"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196839">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-195821"
+      class="show-replies small text-blue"
+      data-comment-nest-id="195821">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-195724" class="comment-container ">
+  <div id="comment-content-195724" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/d-y/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/785999/8229d5f633fe5d6699057509ad27356b06c018a5.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_195724 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/d-y/">D Y</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          21:45 Nov 08, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">I love it! Super fun and intense. Can you please check out my story and give me some feedback? I love your writing</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-195724" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="195724"></div>
+  <div id="comment-nest-195724-content">
+      
+<!-- Comment -->
+<div id="comment-196846" class="comment-container nested">
+  <div id="comment-content-196846" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196846 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:35 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thanks! I&#39;ll do my best to get around to it soon, rather chaotic at the moment! If I forget, come and give me a kick as a reminder! :)</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196846" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196846"></div>
+  <div id="comment-nest-196846-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196846"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196846">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-195724"
+      class="show-replies small text-blue"
+      data-comment-nest-id="195724">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-195630" class="comment-container ">
+  <div id="comment-content-195630" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/aida-dibisceglie/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/789170/4d2aedc2241d9a78ca8767ceafc21abd1edb4ea3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_195630 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/aida-dibisceglie/">Aida Dibisceglie</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          19:57 Nov 08, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">A very well deserved win! I loved how well written and thought out the story was! It was really enjoyable to read!</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-195630" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="195630"></div>
+  <div id="comment-nest-195630-content">
+      
+<!-- Comment -->
+<div id="comment-196847" class="comment-container nested">
+  <div id="comment-content-196847" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196847 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:36 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thank you, Aida! That means the world to me. :)</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196847" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196847"></div>
+  <div id="comment-nest-196847-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196847"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196847">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-195630"
+      class="show-replies small text-blue"
+      data-comment-nest-id="195630">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-195363" class="comment-container ">
+  <div id="comment-content-195363" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/allyssa-s-black/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/655190/203faa2e2b22d4253b5bb3623d1461da16341f33.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_195363 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/allyssa-s-black/">Allyssa .s. black</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          13:37 Nov 08, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">This story is absolutely amazing, congratulations you deserved to win!</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-195363" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="195363"></div>
+  <div id="comment-nest-195363-content">
+      
+<!-- Comment -->
+<div id="comment-196850" class="comment-container nested">
+  <div id="comment-content-196850" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196850 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:36 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thanks so much, Allyssa! Such a nice comment. :)</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196850" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196850"></div>
+  <div id="comment-nest-196850-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196850"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196850">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-195363"
+      class="show-replies small text-blue"
+      data-comment-nest-id="195363">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-195338" class="comment-container ">
+  <div id="comment-content-195338" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/keri-dyck/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/289040/61b2d7e55e858fb5361a532b6cc95e28d60118a7.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_195338 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/keri-dyck/">Keri Dyck</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          12:38 Nov 08, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">You did a really good job with this story. the descriptions were vivd, the dialogue was nearly perfect. I would change only one thing: the use of Jesus and God as swear words. It&#39;s disrespectful. Oh but my favourite paragraph was this one: &quot;A thick mist clung to the ground. It seemed to seep from the very pores of the earth itself and offered the place a pale illumination. The tombstones pointed this way and that, drunkards who leaned against doorframes.&quot; It was amazing how tangible you made the story. </p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-195338" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="195338"></div>
+  <div id="comment-nest-195338-content">
+      
+<!-- Comment -->
+<div id="comment-196857" class="comment-container nested">
+  <div id="comment-content-196857" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196857 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:42 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thanks, Keri! I&#39;m so glad you liked my descriptions. I&#39;m sorry if I offended. As writers, our characters often can (and will) do and say things we don&#39;t necessarily like or agree with. I do my best to eliminate curse words for the most part, but not to the extent that I lose a feel for who the character is. These are, after all, modern, teenage girls -- who sneak out to graveyards after dark! :D</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196857" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196857"></div>
+  <div id="comment-nest-196857-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196857"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196857">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-195338"
+      class="show-replies small text-blue"
+      data-comment-nest-id="195338">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-195293" class="comment-container ">
+  <div id="comment-content-195293" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/cade-saint/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/794521/f52890c6e2a3ce406ce967e4f7a0987a7008cebf.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_195293 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/cade-saint/">Cade Saint</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          08:22 Nov 08, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">congrats on your win! love the story, well deserved.</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-195293" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="195293"></div>
+  <div id="comment-nest-195293-content">
+      
+<!-- Comment -->
+<div id="comment-196858" class="comment-container nested">
+  <div id="comment-content-196858" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196858 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:42 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thanks, Cade! :)</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196858" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196858"></div>
+  <div id="comment-nest-196858-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196858"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196858">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-195293"
+      class="show-replies small text-blue"
+      data-comment-nest-id="195293">
+  Show 1 reply
+</div>
+
+</div>
+
+<!-- Comment -->
+<div id="comment-194196" class="comment-container ">
+  <div id="comment-content-194196" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/writer-maniac/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/686687/2d6a5870eae91a944fb3f9be96d0fb7e650fdbe3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_194196 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/writer-maniac/">Writer Maniac</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          06:28 Nov 07, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">This story had me hooked from the beginning, and I couldn&#39;t stop reading it! I love Sadie and Lisa&#39;s friendship, and how serious Sadie seems about this whole vampire hunting business. It was a perfect blend of suspense and wholesomeness, a very well-deserved win! Congrats!</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-194196" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="194196"></div>
+  <div id="comment-nest-194196-content">
+      
+<!-- Comment -->
+<div id="comment-196859" class="comment-container nested">
+  <div id="comment-content-196859" class="comment ">
+    <div class="grid gutter-xs-sm no-response align-middle space-bottom-xs-sm">
+      <div class="cell-shrink">
+        <a href="/creative-writing-prompts/author/joshua-insole/">
+          <img class="img-avatar avatar-sm" src="https://images-cdn.reedsy.com/auth/avatar/105730/4318afb5382fc152e33dacc5e78583c291ca65e3.jpg" />
+</a>      </div>
+      <div class="cell">
+        <small>
+          <span class="comment_voter_196859 space-right-xs-xs">
+    <button name="button" type="submit" class="btn-no-decoration trigger-signup-modal text-grey">
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/upvote-d844386a03894c0cec6038da37ffaa289f95430ce1216e1c3fc4908e9a9085c3.svg" />
+      <img width="12" src="https://blog-cdn.reedsy.com/assets/writing-prompts/downvote-520ee05836e70e833163c067e484658203944df4a6b3cfcb9d71a8981e78a751.svg" />
+      4 points
+</button></span>
+
+          <a class="profile-link text-weight-normal text-blue" href="/creative-writing-prompts/author/joshua-insole/">Joshua Insole</a>
+        </small>
+      </div>
+      <div class="cell-shrink">
+        <small class="text-grey">
+          20:43 Nov 09, 2020
+        </small>
+      </div>
+    </div>
+<!-- Content -->
+      <p class="small text-wrap">Thank you! I really enjoyed writing their friendship, I&#39;m glad it felt so authentic. :)</p>
+<!-- Actions -->
+    <p class="small text-grey">
+      <small>
+        <a class="text-grey" href="/auth/sign_in">Reply</a>
+      </small>
+    </p>
+  </div>
+    <div id="comment-nest-196859" class="comment-nest">
+  <div class="collapsable" data-comment-nest-id="196859"></div>
+  <div id="comment-nest-196859-content">
+      
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-196859"
+      class="show-replies small text-blue"
+      data-comment-nest-id="196859">
+  Show 0 replies
+</div>
+
+</div>
+
+  </div>
+
+  
+</div>
+
+<div id="comment-show-replies-194196"
+      class="show-replies small text-blue"
+      data-comment-nest-id="194196">
+  Show 1 reply
+</div>
+
+</div>
+
+  </div>
+
+  <div id="comment-load">
+    <a class="btn-grey btn-full space-top-xs-sm load-more-comments" rel="next" data-remote="true" href="/creative-writing-prompts/contests/65/submissions/40259/?page=2">Load more comments</a>
+  </div>
+
+</div>
+
+
+    </div>
+  </section>
+
+  <section id="footer" class="row-slate">
+  <div class="content">
+    <div class="grid align-middle gutter-xs-lg">
+      <div class="cell">
+        <p class="mimic-h1 font-heavy">
+          Find the perfect editor for your next book
+        </p>
+        <p class="space-top-xs-sm">
+          Over 500,000 authors trust the professionals on Reedsy, come meet them.
+        </p>
+          <div class="grid gutter-xs-sm no-response space-top-xs-md">
+            <div class="cell-xs-full">
+              <a title="Sign up" class="btn btn-sm btn-full-mob btn-blue" href="https://reedsy.com">Join today
+                <img class="btn-icon" width="24" alt="icon arrow" src="https://blog-cdn.reedsy.com/assets/icons/arrow-right-white-d85aec9d3fd64593da5457cf782c3df6a5bffddf62f1f7c5127802e205ef7056.svg" />
+</a>            </div>
+            <div class="cell-shrink">
+              <a title="Sign in with Google" class="btn btn-full-mob btn-sm btn-grey" href="https://reedsy.com/auth/social_sign_in/google"><span class="hidden-until-sm">Sign in with Google</span>
+                <img class="btn-icon" width="24" alt="icon google" src="https://blog-cdn.reedsy.com/assets/icons/google-9239c5d61fface153936c0bcf820d394e98b2c40f5b891c85a54a207749f2ce4.svg" />
+</a>            </div>
+            <div class="cell-shrink">
+              <a title="Sign in with Facebook" class="btn btn-sm btn-full-mob btn-facebook" href="https://reedsy.com/auth/social_sign_in/facebook"><span class="hidden-until-sm">Facebook</span>
+                <img class="btn-icon" width="24" alt="icon facebook" src="https://blog-cdn.reedsy.com/assets/icons/facebook-white-c3976d65c45599df63819cf43b1535a3bd8e12d0cba5881e4ffebe0f2fcb7bae.svg" />
+</a>            </div>
+          </div>
+      </div>
+      <div class="cell-sm-third text-center hidden-until-md">
+              <img data-src="https://blog-cdn.reedsy.com/assets/community-933f2b9ea4f84ee3940d5e4ad99935020511912465290671ab282d216de52159.svg" class="lazyload img-full" alt="Reedsy Professionals" width="300" height="">
+
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="row-grey row-thin">
+  <div class="content border-top">
+    <h2 class="mimic-h3">Explore more writing prompt ideas:</h2>
+    <div class="grid gutter-xs-md space-top-xs-lg">
+        <div class="cell-xs-8 cell-sm-4">
+          <div class="panel panel-thinner panel-white-bordered panel-full-height hover-grow">
+            <div class="panel-body">
+              <p class="small">
+                <a class="no-decoration" href="/creative-writing-prompts/adventure/">Adventure Writing Prompts&nbsp;⭢</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="cell-xs-8 cell-sm-4">
+          <div class="panel panel-thinner panel-white-bordered panel-full-height hover-grow">
+            <div class="panel-body">
+              <p class="small">
+                <a class="no-decoration" href="/creative-writing-prompts/comedy/">Comedy Writing Prompts&nbsp;⭢</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="cell-xs-8 cell-sm-4">
+          <div class="panel panel-thinner panel-white-bordered panel-full-height hover-grow">
+            <div class="panel-body">
+              <p class="small">
+                <a class="no-decoration" href="/creative-writing-prompts/creative-nonfiction/">Creative Nonfiction Writing Prompts&nbsp;⭢</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="cell-xs-8 cell-sm-4">
+          <div class="panel panel-thinner panel-white-bordered panel-full-height hover-grow">
+            <div class="panel-body">
+              <p class="small">
+                <a class="no-decoration" href="/creative-writing-prompts/drama/">Dramatic Writing Prompts&nbsp;⭢</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="cell-xs-8 cell-sm-4">
+          <div class="panel panel-thinner panel-white-bordered panel-full-height hover-grow">
+            <div class="panel-body">
+              <p class="small">
+                <a class="no-decoration" href="/creative-writing-prompts/fantasy/">Fantasy Writing Prompts&nbsp;⭢</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="cell-xs-8 cell-sm-4">
+          <div class="panel panel-thinner panel-white-bordered panel-full-height hover-grow">
+            <div class="panel-body">
+              <p class="small">
+                <a class="no-decoration" href="/creative-writing-prompts/for-kids/">For Kids Writing Prompts&nbsp;⭢</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="cell-xs-8 cell-sm-4">
+          <div class="panel panel-thinner panel-white-bordered panel-full-height hover-grow">
+            <div class="panel-body">
+              <p class="small">
+                <a class="no-decoration" href="/creative-writing-prompts/general/">General Writing Prompts&nbsp;⭢</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="cell-xs-8 cell-sm-4">
+          <div class="panel panel-thinner panel-white-bordered panel-full-height hover-grow">
+            <div class="panel-body">
+              <p class="small">
+                <a class="no-decoration" href="/creative-writing-prompts/historical-fiction/">Historical Fiction Writing Prompts&nbsp;⭢</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="cell-xs-8 cell-sm-4">
+          <div class="panel panel-thinner panel-white-bordered panel-full-height hover-grow">
+            <div class="panel-body">
+              <p class="small">
+                <a class="no-decoration" href="/creative-writing-prompts/holiday/">Holiday Writing Prompts&nbsp;⭢</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="cell-xs-8 cell-sm-4">
+          <div class="panel panel-thinner panel-white-bordered panel-full-height hover-grow">
+            <div class="panel-body">
+              <p class="small">
+                <a class="no-decoration" href="/creative-writing-prompts/mystery/">Mystery Writing Prompts&nbsp;⭢</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="cell-xs-8 cell-sm-4">
+          <div class="panel panel-thinner panel-white-bordered panel-full-height hover-grow">
+            <div class="panel-body">
+              <p class="small">
+                <a class="no-decoration" href="/creative-writing-prompts/romance/">Romance Writing Prompts&nbsp;⭢</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="cell-xs-8 cell-sm-4">
+          <div class="panel panel-thinner panel-white-bordered panel-full-height hover-grow">
+            <div class="panel-body">
+              <p class="small">
+                <a class="no-decoration" href="/creative-writing-prompts/science-fiction/">Science Fiction Writing Prompts&nbsp;⭢</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="cell-xs-8 cell-sm-4">
+          <div class="panel panel-thinner panel-white-bordered panel-full-height hover-grow">
+            <div class="panel-body">
+              <p class="small">
+                <a class="no-decoration" href="/creative-writing-prompts/thriller/">Thriller and Suspense Writing Prompts&nbsp;⭢</a>
+              </p>
+            </div>
+          </div>
+        </div>
+    </div>
+  </div>
+</section>
+
+<footer class="nav-footer">
+  <div class="content">
+    <div class="grid">
+
+      <div class="cell-md-4 grid justify-between align-middle">
+        <a class="cell-xs-8 cell-md-16 logo-svg" href="https://reedsy.com">
+                <img data-src="https://blog-cdn.reedsy.com/assets/logo/reedsy-1c584c744d5702386f1240443bf2fcb5cd444af9dc590e738c128a447d043572.svg" class="lazyload svg-logo" alt="reedsy logo" width="" height="">
+
+        </a>
+        <div class="social-links cell-xs-8 cell-md-16 text-right-below-md">
+          <a class="social-icon twitter"
+             href="https://twitter.com/reedsyhq"\
+             target="_blank"
+             title="Twitter"></a>
+          <a class="social-icon facebook"
+             href="https://www.facebook.com/wearereedsy/"
+             target="_blank"
+             title="Facebook"></a>
+          <a class="social-icon linkedin"
+             href="https://www.linkedin.com/company/reedsy"
+             target="_blank"
+             title="LinkedIn"></a>
+        </div>
+        <h5 class="cell-xs-16">
+          <a href="https://reedsy.com/about/tou">Terms</a>
+          <a href="https://reedsy.com/about/privacy" class="space-left-xs-sm space-right-xs-sm">Privacy</a>
+          Reedsy Ltd. © 2021
+        </h5>
+      </div>
+
+      <div class="cell hidden-until-md">
+        <div class="grid">
+          <div class="cell-sm-4">
+            <h5>MARKETPLACE</h5>
+            <div class="grid-column gutter-xs-md space-top-xs-md">
+              <a href="https://reedsy.com" target="_blank">Authors</a>
+              <a href="https://reedsy.com/publishers" target="_blank">Publishers</a>
+              <a href="https://reedsy.com/join-our-community" target="_blank">Become a Freelancer</a>
+            </div>
+          </div>
+
+          <div class="cell-sm-3">
+            <h5>LEARN</h5>
+            <div class="grid-column gutter-xs-md space-top-xs-md">
+              <a href="/" target="_blank">Blog</a>
+              <a href="/learning" target="_blank">Learning</a>
+              <a href="/live" target="_blank">Live</a>
+              <a href="/freelancer" target="_blank">Freelancer</a>
+              <a href="https://reedsy.com/discovery/blog" target="_blank">Discovery Blog</a>
+            </div>
+          </div>
+
+          <div class="cell-sm-3">
+            <h5>COMPANY</h5>
+            <div class="grid-column gutter-xs-md space-top-xs-md">
+              <a href="https://reedsy.com/about" target="_blank">About</a>
+              <a href="https://reedsy.com/about/team" target="_blank">Team</a>
+              <a href="https://reedsy.com/about/press" target="_blank">Press</a>
+              <a target="_blank" href="/reedsy-scholarship/">Scholarship</a>
+            </div>
+          </div>
+
+          <div class="cell">
+            <h5>RESOURCES</h5>
+            <div class="grid space-top-xs-md">
+              <div class="cell grid-column gutter-xs-md">
+                <a href="/writing-exercises" target="_blank">Writing exercises</a>
+                <a href="/writing-contests" target="_blank">Writing contests</a>
+                <a href="/short-story-ideas" target="_blank">Short story ideas</a>
+                <a href="/book-title-generator" target="_blank">Title generator</a>
+              </div>
+              <div class="cell grid-column gutter-xs-md">
+                <a href="/booktube-channels/" target="_blank">Booktube Directory</a>
+                <a href="/creative-writing-prompts" target="_blank">Writing prompts</a>
+                <a href="/book-review-blogs" target="_blank">Book review blogs</a>
+                <a href="https://reedsy.com/write-a-book" target="_blank">Writing tool</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+</div>
+
+
+    <!-- Exit modal -->
+      
+    
+    <div id="prompt-signup-modal" class="modal">
+  <div class="modal-content grid align-middle align-vertical-middle">
+    <div class="panel panel-white">
+      <div class="panel-body"><!-- panel body -->
+        <div class="grid no-response">
+          <p class="cell mimic-h3 space-bottom-xs-none space-top-xs-none">Oops, you need an account for that!</p>
+          <div class="cell-shrink btn-close mimic-h3">✕</div>
+        </div>
+        <p>Log in with your social account:</p>
+
+        <div class="grid gutter-xs-sm no-response space-top-xs-sm space-bottom-xs-sm">
+          <div class="cell">
+            <a title="Sign in with Google" class="btn btn-full btn-sm btn-grey" href="/auth/social_sign_in/google"><span class="hidden-until-sm">Sign in with Google</span>
+              <img class="btn-icon" width="24" src="https://blog-cdn.reedsy.com/assets/icons/google-9239c5d61fface153936c0bcf820d394e98b2c40f5b891c85a54a207749f2ce4.svg" />
+</a>          </div>
+          <div class="cell">
+            <a title="Sign in with Facebook" class="btn btn-sm btn-full btn-facebook" href="/auth/social_sign_in/facebook"><span class="hidden-until-sm">Facebook</span>
+              <img class="btn-icon" width="24" src="https://blog-cdn.reedsy.com/assets/icons/facebook-white-c3976d65c45599df63819cf43b1535a3bd8e12d0cba5881e4ffebe0f2fcb7bae.svg" />
+</a>          </div>
+        </div>
+        <p>Or enter your email:</p>
+        <form class="captcha-signup form-input-border " action="/users/sign_up/" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="XEoTbv2SX+cYoF+4HlhabMEN/DtmRBlt7/UYG/JDsvhpyG4iHPUIqgtl0iTZS6JLColoTLacDkIDmOhxWe1RrQ==" />
+
+  <input type="hidden" name="g-recaptcha-response-v3" id="69180109-03ca-4ed0-95ff-d1842772d378" value="" class="g-recaptcha-response" />
+
+  <input type="email" name="user[email]" id="user_email" value="" placeholder="Email address..." required="required" class="space-bottom-xs-sm" />
+  <input type="submit" name="commit" value="Sign up " class="btn-blue btn-full" data-disable-with="Sign up " />
+</form>
+      </div>
+    </div>
+    <div class="modal-overlay"></div>
+  </div>
+</div>
+
+
+    <!-- Admin bar -->
+
+    <link href="https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i,700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript>
+      <link href="https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i,700&display=swap" rel="stylesheet" media="all">
+    </noscript>
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript>
+      <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap" rel="stylesheet" media="all">
+    </noscript>
+
+      <script src="https://accounts.google.com/gsi/client"></script>
+
+      <div id="g_id_onload"
+        class="google-one-tap"
+        data-client_id=353649269696-04fa2k2793bnviu7qtip00o6vgj70fij.apps.googleusercontent.com
+        data-login_uri=/auth/social_sign_in/google_one_tap
+        data-prompt_parent_id="g_id_onload">
+      </div>
+
+      <script src="https://blog-cdn.reedsy.com/assets/prompts-fef4a4f74876230ad38cc7844f42c1e49ff9535432a29108a7b5190ea92372b5.js"></script>
+
+    
+
+    
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+    const commentSubmitEl = document.getElementById('comment-submit');
+    const commentTextareaEl = document.getElementById('comment-textarea');
+
+    if (!commentTextareaEl) {
+      return;
+    }
+
+    const _setCommentSubmitDisabledState = () => {
+      if (commentTextareaEl.value.trim() ===  '') {
+        commentSubmitEl.setAttribute('disabled', true);
+        return;
+      }
+
+      commentSubmitEl.removeAttribute('disabled');
+    };
+
+    commentTextareaEl.addEventListener('keyup', _setCommentSubmitDisabledState);
+    _setCommentSubmitDisabledState();
+
+    // Cmd enter to post!
+    commentTextareaEl.addEventListener('keydown', (ev) => {
+      if ((ev.keyCode === 10 || ev.keyCode === 13)
+        && (ev.metaKey || ev.ctrlKey)) {
+        const newCommentEl = document.getElementById('new_comment');
+        Rails.fire(newCommentEl, 'submit');
+      }
+    });
+  });
+</script>
+
+
+    <!-- Recaptcha -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        new Reedsy.CaptchaHandler('6Lcz9N0UAAAAAImmcXVewXut52jmz6PQRG-p8zj7');
+      });
+    </script>
+  </body>
+</html>
