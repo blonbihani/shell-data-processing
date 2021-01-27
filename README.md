@@ -1,4 +1,4 @@
-# INTRO TO SHELL DATA PROCESSING
+# INTRODUCTION TO SHELL DATA PROCESSING
 
 ## Important commands to use in Powershell
 - mkdir : create a new directory
